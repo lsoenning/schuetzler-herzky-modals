@@ -1,0 +1,228 @@
+# Data analysis
+
+## Load packages
+
+```{r}
+library(lattice)
+library(tidyverse)
+library(brms)
+source("./r_utils/my_settings.R")
+```
+
+## Data
+
+### Load data
+
+```{r}
+modals <- read.csv("./data/modals_data.csv", row.names=1)
+
+# exclude USA
+modals <- subset(modals, variety != "USA")
+modals <- droplevels(modals)
+str(modals)
+```
+
+### Inspect data
+
+Distribution of observations across text files (extent of clustering)
+
+```{r, fig.height=3, fig.width=3}
+histogram(as.numeric(xtabs(~text_ID, data=modals)), nint=15)
+```
+
+Distribution of observations across conditions
+```{r}
+# for the tabular overview only: group source.ct (-1, -.5, 0, .5, 1) into 3 categories
+modals$source_3 <- factor(ifelse(modals$source.ct < 0, "obj", ifelse(modals$source.ct == 0, "os", "subj")))
+
+# Mode
+ftable(modals[,c(4,1)])
+```
+```{r}
+ftable(modals[,c(4,8,1)])
+```
+
+```{r}
+ftable(modals[,c(4,8,11,1)])
+```
+
+### Visualization: Descriptive
+
+Mode by variety
+```{r fig.height=3, fig.width=4}
+modals %>% group_by(variety, mode) %>% 
+  dplyr::summarize(n_must = sum(verb=="must"),
+                   n_have = sum(verb=="have to"),
+                   n_need = sum(verb=="need to"),
+                   n_got = sum(verb=="(have) got to")) %>% 
+  mutate(n_total = n_must + n_have + n_need + n_got) %>% 
+  mutate(p_must = n_must/n_total,
+         p_have = n_have/n_total,
+         p_need = n_need/n_total,
+         p_got = n_got/n_total) %>% 
+  select(variety, mode, p_must, p_have, p_need, p_got) %>% 
+  gather(p_must, p_have, p_need, p_got, key="verb", value="share") %>% 
+  ggplot(aes(x=mode, y=share, color=verb, group=verb)) + 
+  geom_point() + geom_line() + facet_wrap(~ variety) +
+  theme_classic()
+
+
+modals %>% group_by(variety, mode, subject_3) %>% 
+  dplyr::summarize(n_must = sum(verb=="must"),
+                   n_have = sum(verb=="have to"),
+                   n_need = sum(verb=="need to"),
+                   n_got = sum(verb=="(have) got to")) %>% 
+  mutate(n_total = n_must + n_have + n_need + n_got) %>% 
+  mutate(p_must = n_must/n_total,
+         p_have = n_have/n_total,
+         p_need = n_need/n_total,
+         p_got = n_got/n_total) %>% 
+  select(variety, mode, subject_3, p_must, p_have, p_need, p_got) %>% 
+  gather(p_must, p_have, p_need, p_got, key="verb", value="share") %>% 
+  ggplot(aes(x=variety, y=share, color=verb, group=verb)) + 
+  geom_point() + geom_line() + facet_wrap(~mode + subject_3) +
+  theme_classic()
+```
+
+Grammatical subject by variety
+```{r fig.height=3, fig.width=4}
+modals %>% group_by(variety, subject_3) %>% 
+  dplyr::summarize(n_must = sum(verb=="must"),
+                   n_have = sum(verb=="have to"),
+                   n_need = sum(verb=="need to"),
+                   n_got = sum(verb=="(have) got to")) %>% 
+  mutate(n_total = n_must + n_have + n_need + n_got) %>% 
+  mutate(p_must = n_must/n_total,
+         p_have = n_have/n_total,
+         p_need = n_need/n_total,
+         p_got = n_got/n_total) %>% 
+  select(variety, subject_3, p_must, p_have, p_need, p_got) %>% 
+  gather(p_must, p_have, p_need, p_got, key="verb", value="share") %>% 
+  ggplot(aes(x=subject_3, y=share, color=verb, group=verb)) + 
+  geom_point() + geom_line() + facet_wrap(~ variety) +
+  theme_classic()
+```
+
+Source of authority by variety
+```{r fig.height=3, fig.width=4}
+modals %>% group_by(variety, source_3) %>% 
+  dplyr::summarize(n_must = sum(verb=="must"),
+                   n_have = sum(verb=="have to"),
+                   n_need = sum(verb=="need to"),
+                   n_got = sum(verb=="(have) got to")) %>% 
+  mutate(n_total = n_must + n_have + n_need + n_got) %>% 
+  mutate(p_must = n_must/n_total,
+         p_have = n_have/n_total,
+         p_need = n_need/n_total,
+         p_got = n_got/n_total) %>% 
+  select(variety, source_3, p_must, p_have, p_need, p_got) %>% 
+  gather(p_must, p_have, p_need, p_got, key="verb", value="share") %>% 
+  ggplot(aes(x=source_3, y=share, color=verb, group=verb)) + 
+  geom_point() + geom_line() + facet_wrap(~ variety) +
+  theme_classic()
+```
+
+# Fit regression models
+
+## Construct weak priors based on literature
+
+```{r}
+p_have = .45
+p_must = .30
+p_got = .20
+p_need = .05
+
+log(p_have/p_must)
+log(p_need/p_must)
+log(p_got/p_must)
+
+```
+
+
+```{r}
+str(modals)
+
+# set reference level for outcome categories
+modals$verb <- relevel(modals$verb, ref="must")
+
+# create contrasts for grammatical subject (effect coding/deviation coding/sum contrasts)
+
+#      subj_c1 subj_c2
+# 1st       +1       0
+# 2nd        0      +1
+# 3rd       -1      -1
+
+modals$subj_c1 <- ifelse(modals$subject_3 == "first", 1, ifelse(modals$subject_3 == "second", 0, -1))
+modals$subj_c2 <- ifelse(modals$subject_3 == "first", 0, ifelse(modals$subject_3 == "second", 1, -1))
+
+m_1 = 
+  brm(verb ~ (subj_c1 + subj_c2 + source.ct + spoken.ct) * variety
+      + (subj_c1 + subj_c2 + source.ct | text_ID),
+      family = "categorical", data = modals,
+      warmup=1000, iter= 2000, cores=3, chains=3,
+      seed=1985,
+      prior=c(
+        set_prior("normal( -.4, 3)",  class = "Intercept", dpar="muhavegotto"),
+        set_prior("normal(  .4, 3)",  class = "Intercept", dpar="muhaveto"),
+        set_prior("normal(-1.8, 3)",  class = "Intercept", dpar="muneedto"),
+        set_prior("normal(0, 2)", class = "b"),
+        set_prior("exponential(1)", class = "sd", dpar = "muhaveto"),
+        set_prior("exponential(1)", class = "sd", dpar = "muhavegotto"),
+        set_prior("exponential(1)", class = "sd", dpar = "muneedto")
+        )
+      )
+
+saveRDS(m_1, file = "C:/Users/ba4rh5/Local Folders/My Local Files/R models/consultation/schuetzler-herzky-modals/m_1.rds")
+print(m_1)
+```
+
+## Inspect fitted probabilities
+
+```{r}
+m_1 <- readRDS("C:/Users/ba4rh5/Local Folders/My Local Files/R models/consultation/schuetzler-herzky-modals/m_1.rds")
+
+m_predicted <- predict(m_1)
+
+d_check <- modals[,-c(5,6,7)]
+d_check$p_hat_must <- m_predicted[,1]
+d_check$p_hat_have <- m_predicted[,2]
+d_check$p_hat_need <- m_predicted[,3]
+d_check$p_hat_got <- m_predicted[,4]
+
+plot1 <- histogram(~p_hat_must, data=d_check, par.settings=my_settings, axis=axis_L, breaks=seq(0,1,length.out=50), col="grey", ylim=c(0, 43))
+plot2 <- histogram(~p_hat_have, data=d_check, par.settings=my_settings, axis=axis_L, breaks=seq(0,1,length.out=50), col="grey", ylim=c(0, 43))
+plot3 <- histogram(~p_hat_need, data=d_check, par.settings=my_settings, axis=axis_L, breaks=seq(0,1,length.out=50), col="grey", ylim=c(0, 43))
+plot4 <- histogram(~p_hat_got, data=d_check, par.settings=my_settings, axis=axis_L, breaks=seq(0,1,length.out=50), col="grey", ylim=c(0, 43))
+
+print(plot1, position=c(0,0,.25,1), more=T)
+print(plot2, position=c(.25,0,.5,1), more=T)
+print(plot3, position=c(.5,0,.75,1), more=T)
+print(plot4, position=c(.75,0,1,1))
+```
+
+
+# Model checking
+
+## Residuals
+```{r fig.height=4, fig.width=4}
+d_check$resid_must <- d_check$p_hat_must - as.numeric(d_check$verb=="must") 
+d_check$resid_have <- d_check$p_hat_have - as.numeric(d_check$verb=="have to") 
+d_check$resid_need <- d_check$p_hat_need - as.numeric(d_check$verb=="need to") 
+d_check$resid_got <- d_check$p_hat_got - as.numeric(d_check$verb=="(have) got to") 
+
+xyplot(resid_must ~ source_3 | mode + variety, data=d_check, jitter.x=TRUE, alpha=.3, col=1, ylim=c(-1,1), cex=.5)
+xyplot(resid_have ~ source_3 | mode + variety, data=d_check, jitter.x=TRUE, alpha=.3, col=1, ylim=c(-1,1), cex=.5)
+xyplot(resid_need ~ source_3 | mode + variety, data=d_check, jitter.x=TRUE, alpha=.3, col=1, ylim=c(-1,1), cex=.5)
+xyplot(resid_got ~ source_3 | mode + variety, data=d_check, jitter.x=TRUE, alpha=.3, col=1, ylim=c(-1,1), cex=.5)
+
+xyplot(resid_must ~ subject_3 | mode + variety, data=d_check, jitter.x=TRUE, alpha=.3, col=1, ylim=c(-1,1), cex=.5)
+xyplot(resid_have ~ subject_3 | mode + variety, data=d_check, jitter.x=TRUE, alpha=.3, col=1, ylim=c(-1,1), cex=.5)
+xyplot(resid_need ~ subject_3 | mode + variety, data=d_check, jitter.x=TRUE, alpha=.3, col=1, ylim=c(-1,1), cex=.5)
+xyplot(resid_got ~ subject_3 | mode + variety, data=d_check, jitter.x=TRUE, alpha=.3, col=1, ylim=c(-1,1), cex=.5)
+```
+## Compute posterior predictions
+```{r}
+
+```
+
+

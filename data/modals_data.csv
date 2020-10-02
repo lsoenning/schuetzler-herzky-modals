@@ -1,0 +1,1131 @@
+"","variety","text_ID","verb","mode","genre","Source.Ole","Source.Jenny","subject_3","source.ct","spoken.ct"
+"1","GB","GB-W2B-035","must","written","PTec","OBJ","OBJ","third",-1,-1
+"2","GB","GB-S2B-028","must","spoken","btal","SUB","OBJ","first",0,1
+"3","GB","GB-W1B-008","must","written","sl","SUB","SUB","first",1,-1
+"4","GB","GB-W2B-035","must","written","PTec","OBJ","OBJ","third",-1,-1
+"10","GB","GB-W2E-006","must","written","ed","X","OBJ","third",-0.5,-1
+"12","GB","GB-S1B-049","must","spoken","bint","SUB","SUB","first",1,1
+"13","GB","GB-W1B-015","must","written","sl","SUB","SUB","first",1,-1
+"14","GB","GB-S1B-038","must","spoken","bdis","SUB","SUB","first",1,1
+"16","GB","GB-S2A-022","must","spoken","unsp","SUB","SUB","first",1,1
+"17","GB","GB-S1B-032","must","spoken","bdis","SUB","SUB","third",1,1
+"18","GB","GB-S2A-066","must","spoken","leg","SUB","SUB","first",1,1
+"20","GB","GB-W2D-018","must","written","SkHo","OBJ","OBJ","third",-1,-1
+"22","GB","GB-S2B-050","must","spoken","nbtal","SUB","OBJ","first",0,1
+"23","GB","GB-S2B-050","must","spoken","nbtal","SUB","SUB","first",1,1
+"25","GB","GB-S2B-048","must","spoken","nbtal","SUB","SUB","first",1,1
+"26","GB","GB-S2B-012","must","spoken","bnew","SUB","OBJ","first",0,1
+"27","GB","GB-W2D-012","must","written","SkHo","OBJ","OBJ","third",-1,-1
+"28","GB","GB-W2D-012","must","written","SkHo","OBJ","OBJ","third",-1,-1
+"36","GB","GB-W2E-002","must","written","ed","SUB","OBJ","third",0,-1
+"38","GB","GB-W2A-017","must","written","ASoc","SUB","SUB","third",1,-1
+"39","GB","GB-W2D-012","must","written","SkHo","OBJ","OBJ","third",-1,-1
+"40","GB","GB-W2D-012","must","written","SkHo","OBJ","OBJ","third",-1,-1
+"41","GB","GB-W2D-018","must","written","SkHo","OBJ","OBJ","third",-1,-1
+"43","GB","GB-W2E-004","must","written","ed","SUB","SUB","third",1,-1
+"44","GB","GB-W2F-017","must","written","nov","SUB","SUB","third",1,-1
+"45","GB","GB-S2B-047","must","spoken","nbtal","OBJ","SUB","third",0,1
+"46","GB","GB-W2E-007","must","written","ed","SUB","OBJ","third",0,-1
+"48","GB","GB-S2A-033","must","spoken","unsp","OBJ","OBJ","third",-1,1
+"50","GB","GB-W2B-030","must","written","PNat","OBJ","OBJ","third",-1,-1
+"51","GB","GB-W2B-017","must","written","PSoc","X","OBJ","third",-0.5,-1
+"53","GB","GB-W2A-017","must","written","ASoc","OBJ","SUB","third",0,-1
+"54","GB","GB-S2A-033","must","spoken","unsp","OBJ","OBJ","third",-1,1
+"55","GB","GB-W2D-015","must","written","SkHo","OBJ","OBJ","third",-1,-1
+"56","GB","GB-S2B-044","must","spoken","nbtal","OBJ","OBJ","third",-1,1
+"57","GB","GB-W2B-038","must","written","PTec","OBJ","OBJ","third",-1,-1
+"59","GB","GB-W2E-001","must","written","ed","SUB","OBJ","third",0,-1
+"64","GB","GB-S1B-047","must","spoken","bint","SUB","SUB","third",1,1
+"65","GB","GB-W2D-013","must","written","SkHo","OBJ","OBJ","third",-1,-1
+"71","GB","GB-S2B-005","must","spoken","bnew","OBJ","OBJ","third",-1,1
+"78","GB","GB-S2B-047","must","spoken","nbtal","OBJ","OBJ","third",-1,1
+"80","GB","GB-S1B-036","must","spoken","bdis","SUB","SUB","third",1,1
+"83","GB","GB-W2D-018","must","written","SkHo","OBJ","OBJ","third",-1,-1
+"86","GB","GB-W2E-009","must","written","ed","SUB","SUB","third",1,-1
+"89","GB","GB-S2B-037","must","spoken","btal","X","X","third",0,1
+"90","GB","GB-W2D-013","must","written","SkHo","OBJ","OBJ","third",-1,-1
+"91","GB","GB-W2D-013","must","written","SkHo","OBJ","OBJ","third",-1,-1
+"92","GB","GB-W2A-014","must","written","ASoc","SUB","OBJ","third",0,-1
+"93","GB","GB-W2B-020","must","written","PSoc","OBJ","OBJ","third",-1,-1
+"96","GB","GB-S2B-030","must","spoken","btal","SUB","OBJ","third",0,1
+"98","GB","GB-W2D-011","must","written","SkHo","OBJ","OBJ","third",-1,-1
+"99","GB","GB-W2B-013","must","written","PSoc","SUB","OBJ","third",0,-1
+"103","GB","GB-S1B-047","must","spoken","bint","SUB","OBJ","third",0,1
+"104","GB","GB-W2F-014","must","written","nov","OBJ","OBJ","third",-1,-1
+"106","GB","GB-W2D-012","must","written","SkHo","OBJ","OBJ","third",-1,-1
+"111","GB","GB-W2B-022","must","written","PNat","OBJ","OBJ","third",-1,-1
+"112","GB","GB-S2B-044","must","spoken","nbtal","SUB","OBJ","third",0,1
+"113","GB","GB-W2B-035","must","written","PTec","OBJ","OBJ","third",-1,-1
+"115","GB","GB-W2D-012","must","written","SkHo","OBJ","OBJ","third",-1,-1
+"117","GB","GB-W2B-040","must","written","PTec","OBJ","OBJ","third",-1,-1
+"120","GB","GB-W2B-022","must","written","PNat","SUB","SUB","third",1,-1
+"121","GB","GB-W2E-006","must","written","ed","SUB","SUB","third",1,-1
+"124","GB","GB-W2B-038","must","written","PTec","OBJ","OBJ","third",-1,-1
+"125","GB","GB-W2D-013","must","written","SkHo","OBJ","OBJ","third",-1,-1
+"126","GB","GB-S2B-029","must","spoken","btal","OBJ","OBJ","third",-1,1
+"132","GB","GB-W2D-017","must","written","SkHo","OBJ","OBJ","third",-1,-1
+"133","GB","GB-W2D-017","must","written","SkHo","OBJ","OBJ","third",-1,-1
+"134","GB","GB-W2F-019","must","written","nov","OBJ","SUB","first",0,-1
+"135","GB","GB-S2A-033","must","spoken","unsp","OBJ","OBJ","third",-1,1
+"136","GB","GB-W2A-011","must","written","ASoc","SUB","OBJ","third",0,-1
+"137","GB","GB-S2A-065","must","spoken","leg","OBJ","OBJ","third",-1,1
+"138","GB","GB-W2B-028","must","written","PNat","OBJ","SUB","third",0,-1
+"141","GB","GB-S2B-014","must","spoken","bnew","SUB","SUB","third",1,1
+"142","GB","GB-W2B-020","must","written","PSoc","OBJ","OBJ","third",-1,-1
+"144","GB","GB-S2A-058","must","spoken","dem","SUB","SUB","third",1,1
+"145","GB","GB-S2B-050","must","spoken","nbtal","SUB","SUB","first",1,1
+"146","GB","GB-S2B-002","must","spoken","bnew","SUB","OBJ","third",0,1
+"150","GB","GB-W2B-033","must","written","PTec","OBJ","OBJ","third",-1,-1
+"151","GB","GB-W2B-003","must","written","PHum","SUB","OBJ","third",0,-1
+"152","GB","GB-W2E-002","must","written","ed","SUB","OBJ","third",0,-1
+"155","GB","GB-S1B-043","must","spoken","bint","SUB","SUB","third",1,1
+"158","GB","GB-W2D-018","must","written","SkHo","OBJ","OBJ","third",-1,-1
+"159","GB","GB-W2A-018","must","written","ASoc","OBJ","OBJ","third",-1,-1
+"160","GB","GB-S2B-038","must","spoken","btal","OBJ","OBJ","third",-1,1
+"161","GB","GB-W2E-006","must","written","ed","SUB","OBJ","third",0,-1
+"165","GB","GB-S1B-027","must","spoken","bdis","X","X","third",0,1
+"166","GB","GB-W2B-033","must","written","PTec","SUB","SUB","third",1,-1
+"167","GB","GB-S2B-050","must","spoken","nbtal","SUB","SUB","third",1,1
+"171","GB","GB-W2F-017","must","written","nov","OBJ","OBJ","third",-1,-1
+"172","GB","GB-S2B-050","must","spoken","nbtal","SUB","SUB","first",1,1
+"173","GB","GB-W2B-017","must","written","PSoc","X","OBJ","third",-0.5,-1
+"174","GB","GB-S2B-049","must","spoken","nbtal","OBJ","OBJ","third",-1,1
+"175","GB","GB-S2B-038","must","spoken","btal","SUB","SUB","third",1,1
+"176","GB","GB-W2E-002","must","written","ed","SUB","OBJ","third",0,-1
+"177","GB","GB-S2B-029","must","spoken","btal","X","SUB","third",0.5,1
+"180","GB","GB-W2E-010","must","written","ed","SUB","SUB","third",1,-1
+"184","GB","GB-W2A-017","must","written","ASoc","OBJ","OBJ","third",-1,-1
+"187","GB","GB-W2D-015","must","written","SkHo","OBJ","OBJ","third",-1,-1
+"189","GB","GB-W2B-033","must","written","PTec","OBJ","OBJ","third",-1,-1
+"190","GB","GB-W2B-017","must","written","PSoc","OBJ","OBJ","third",-1,-1
+"191","GB","GB-S2B-013","must","spoken","bnew","SUB","OBJ","third",0,1
+"192","GB","GB-W2B-013","must","written","PSoc","SUB","OBJ","third",0,-1
+"197","GB","GB-S2B-039","must","spoken","btal","X","OBJ","third",-0.5,1
+"198","GB","GB-W2D-019","must","written","SkHo","OBJ","OBJ","third",-1,-1
+"201","GB","GB-S1B-036","must","spoken","bdis","SUB","SUB","first",1,1
+"202","GB","GB-W2D-011","must","written","SkHo","OBJ","OBJ","third",-1,-1
+"203","GB","GB-W2B-017","must","written","PSoc","SUB","SUB","third",1,-1
+"205","GB","GB-S2A-038","must","spoken","unsp","SUB","OBJ","third",0,1
+"206","GB","GB-S2B-039","must","spoken","btal","OBJ","OBJ","third",-1,1
+"207","GB","GB-S2B-022","must","spoken","btal","OBJ","OBJ","third",-1,1
+"208","GB","GB-W2C-008","must","written","rep","OBJ","SUB","third",0,-1
+"210","GB","GB-S2B-028","must","spoken","btal","SUB","SUB","first",1,1
+"211","GB","GB-W2F-008","must","written","nov","SUB","SUB","second",1,-1
+"212","GB","GB-W2C-002","must","written","rep","OBJ","OBJ","third",-1,-1
+"213","GB","GB-S2B-030","must","spoken","btal","SUB","SUB","first",1,1
+"216","GB","GB-W1B-015","must","written","sl","OBJ","SUB","first",0,-1
+"217","GB","GB-W1B-013","must","written","sl","SUB","SUB","second",1,-1
+"218","GB","GB-W1B-004","must","written","sl","SUB","SUB","second",1,-1
+"219","GB","GB-W1B-004","must","written","sl","SUB","SUB","second",1,-1
+"221","GB","GB-S2B-020","must","spoken","bnew","OBJ","OBJ","third",-1,1
+"222","GB","GB-S1B-050","must","spoken","bint","SUB","SUB","first",1,1
+"223","GB","GB-W2D-015","must","written","SkHo","OBJ","SUB","third",0,-1
+"225","GB","GB-S2A-039","must","spoken","unsp","SUB","SUB","first",1,1
+"226","GB","GB-S1B-034","must","spoken","bdis","SUB","SUB","first",1,1
+"228","GB","GB-S2A-031","must","spoken","unsp","SUB","SUB","first",1,1
+"230","GB","GB-W2B-013","must","written","PSoc","OBJ","OBJ","first",-1,-1
+"231","GB","GB-W2D-011","must","written","SkHo","OBJ","OBJ","third",-1,-1
+"233","GB","GB-W2F-008","must","written","nov","OBJ","SUB","third",0,-1
+"234","GB","GB-S2A-045","must","spoken","unsp","SUB","SUB","third",1,1
+"237","GB","GB-W2B-025","must","written","PNat","OBJ","OBJ","third",-1,-1
+"244","GB","GB-S2B-031","must","spoken","btal","OBJ","X","first",-0.5,1
+"246","GB","GB-W2C-008","must","written","rep","SUB","OBJ","third",0,-1
+"247","GB","GB-W2C-009","must","written","rep","SUB","OBJ","third",0,-1
+"249","GB","GB-S2A-029","must","spoken","unsp","OBJ","OBJ","second",-1,1
+"253","GB","GB-W1B-001","must","written","sl","SUB","SUB","third",1,-1
+"254","GB","GB-W1B-002","must","written","sl","SUB","SUB","first",1,-1
+"260","GB","GB-W2D-019","must","written","SkHo","OBJ","OBJ","third",-1,-1
+"261","GB","GB-S2B-030","must","spoken","btal","SUB","SUB","third",1,1
+"262","GB","GB-S2B-005","must","spoken","bnew","SUB","SUB","first",1,1
+"264","GB","GB-S2B-040","must","spoken","btal","OBJ","SUB","third",0,1
+"265","GB","GB-S1B-047","must","spoken","bint","SUB","SUB","third",1,1
+"266","GB","GB-W2F-016","must","written","nov","SUB","SUB","first",1,-1
+"267","GB","GB-S1B-044","must","spoken","bint","SUB","SUB","first",1,1
+"268","GB","GB-S2B-030","must","spoken","btal","SUB","SUB","first",1,1
+"270","GB","GB-W1B-005","must","written","sl","SUB","SUB","first",1,-1
+"271","GB","GB-S2A-023","must","spoken","unsp","SUB","SUB","second",1,1
+"272","GB","GB-S2A-031","must","spoken","unsp","SUB","SUB","first",1,1
+"273","GB","GB-W2E-010","must","written","ed","SUB","SUB","third",1,-1
+"277","GB","GB-W2C-018","must","written","rep","SUB","SUB","third",1,-1
+"279","GB","GB-W1B-001","must","written","sl","OBJ","X","first",-0.5,-1
+"280","GB","GB-W2F-018","must","written","nov","OBJ","OBJ","third",-1,-1
+"281","GB","GB-W2E-009","must","written","ed","SUB","X","third",0.5,-1
+"283","GB","GB-S2B-030","must","spoken","btal","SUB","SUB","third",1,1
+"284","GB","GB-W1B-005","must","written","sl","OBJ","SUB","first",0,-1
+"285","GB","GB-W1B-010","must","written","sl","OBJ","SUB","first",0,-1
+"286","GB","GB-S2B-030","must","spoken","btal","SUB","SUB","third",1,1
+"287","GB","GB-S2B-027","must","spoken","btal","OBJ","OBJ","third",-1,1
+"290","GB","GB-W2D-012","must","written","SkHo","OBJ","OBJ","second",-1,-1
+"291","GB","GB-W2D-012","must","written","SkHo","OBJ","OBJ","third",-1,-1
+"292","GB","GB-W2D-019","must","written","SkHo","OBJ","OBJ","third",-1,-1
+"294","GB","GB-S2A-065","must","spoken","leg","SUB","OBJ","third",0,1
+"295","GB","GB-W2A-017","must","written","ASoc","SUB","OBJ","third",0,-1
+"296","GB","GB-S2A-040","must","spoken","unsp","SUB","SUB","first",1,1
+"297","GB","GB-S1B-040","must","spoken","bdis","SUB","SUB","first",1,1
+"299","GB","GB-S1B-073","must","spoken","btran","OBJ","OBJ","second",-1,1
+"301","GB","GB-S1B-044","must","spoken","bint","SUB","SUB","first",1,1
+"302","GB","GB-W2A-015","must","written","ASoc","SUB","SUB","third",1,-1
+"303","GB","GB-S1B-049","must","spoken","bint","OBJ","OBJ","first",-1,1
+"304","GB","GB-W2B-001","must","written","PHum","OBJ","SUB","first",0,-1
+"305","GB","GB-S2B-031","must","spoken","btal","SUB","SUB","first",1,1
+"306","GB","GB-W2B-006","must","written","PHum","SUB","SUB","first",1,-1
+"307","GB","GB-S2B-038","must","spoken","btal","SUB","SUB","third",1,1
+"308","GB","GB-S1B-044","must","spoken","bint","OBJ","OBJ","third",-1,1
+"310","GB","GB-W2B-039","must","written","PTec","OBJ","OBJ","third",-1,-1
+"311","GB","GB-W2A-011","must","written","ASoc","OBJ","OBJ","third",-1,-1
+"312","GB","GB-W2D-019","must","written","SkHo","OBJ","OBJ","third",-1,-1
+"316","GB","GB-S1B-025","must","spoken","bdis","OBJ","OBJ","second",-1,1
+"317","GB","GB-S1B-025","must","spoken","bdis","OBJ","OBJ","second",-1,1
+"319","GB","GB-S2A-039","must","spoken","unsp","X","SUB","third",0.5,1
+"322","GB","GB-W2E-005","must","written","ed","SUB","SUB","third",1,-1
+"323","GB","GB-S2B-047","must","spoken","nbtal","OBJ","SUB","third",0,1
+"324","GB","GB-W2E-003","must","written","ed","SUB","SUB","third",1,-1
+"327","GB","GB-S2B-030","must","spoken","btal","SUB","SUB","first",1,1
+"328","GB","GB-W2D-014","must","written","SkHo","OBJ","OBJ","third",-1,-1
+"329","GB","GB-S2B-024","must","spoken","btal","OBJ","OBJ","second",-1,1
+"330","GB","GB-S2A-039","must","spoken","unsp","SUB","OBJ","first",0,1
+"334","GB","GB-W2E-002","must","written","ed","SUB","SUB","third",1,-1
+"335","GB","GB-S2B-032","must","spoken","btal","OBJ","SUB","first",0,1
+"339","GB","GB-S2B-019","must","spoken","bnew","OBJ","SUB","third",0,1
+"340","GB","GB-W2E-007","must","written","ed","SUB","SUB","first",1,-1
+"344","GB","GB-W2E-004","must","written","ed","SUB","SUB","third",1,-1
+"346","GB","GB-S2B-012","must","spoken","bnew","SUB","SUB","third",1,1
+"349","GB","GB-W2B-035","must","written","PTec","OBJ","OBJ","third",-1,-1
+"353","GB","GB-S1B-033","must","spoken","bdis","SUB","SUB","first",1,1
+"354","GB","GB-W2B-018","must","written","PSoc","OBJ","OBJ","third",-1,-1
+"355","GB","GB-W2E-004","must","written","ed","SUB","SUB","third",1,-1
+"356","GB","GB-W2B-035","must","written","PTec","X","OBJ","third",-0.5,-1
+"357","GB","GB-W2E-004","must","written","ed","SUB","SUB","third",1,-1
+"360","GB","GB-W1B-009","must","written","sl","SUB","SUB","first",1,-1
+"362","GB","GB-W2F-011","must","written","nov","SUB","SUB","first",1,-1
+"363","GB","GB-S2B-030","must","spoken","btal","SUB","SUB","first",1,1
+"365","GB","GB-W2F-008","must","written","nov","SUB","SUB","third",1,-1
+"366","GB","GB-W2B-036","must","written","PTec","OBJ","OBJ","third",-1,-1
+"370","GB","GB-S2B-014","must","spoken","bnew","SUB","SUB","first",1,1
+"371","GB","GB-W2B-010","must","written","PHum","SUB","SUB","first",1,-1
+"374","GB","GB-S1B-032","must","spoken","bdis","SUB","SUB","first",1,1
+"375","GB","GB-S1B-040","must","spoken","bdis","SUB","SUB","first",1,1
+"376","GB","GB-S2A-063","must","spoken","leg","SUB","SUB","first",1,1
+"378","GB","GB-S2B-032","must","spoken","btal","SUB","SUB","first",1,1
+"379","GB","GB-S2A-055","must","spoken","dem","SUB","SUB","first",1,1
+"380","GB","GB-S2A-026","must","spoken","unsp","SUB","SUB","first",1,1
+"383","GB","GB-W2E-009","must","written","ed","SUB","OBJ","third",0,-1
+"386","GB","GB-W2C-006","must","written","rep","SUB","SUB","third",1,-1
+"387","GB","GB-W2E-010","must","written","ed","SUB","OBJ","third",0,-1
+"388","GB","GB-W2B-038","must","written","PTec","OBJ","OBJ","third",-1,-1
+"390","GB","GB-W2B-035","must","written","PTec","SUB","OBJ","third",0,-1
+"392","GB","GB-S2B-007","must","spoken","bnew","SUB","SUB","first",1,1
+"393","GB","GB-W2B-029","must","written","PNat","OBJ","OBJ","third",-1,-1
+"394","GB","GB-W2B-029","must","written","PNat","OBJ","OBJ","third",-1,-1
+"395","GB","GB-W2F-018","must","written","nov","SUB","SUB","first",1,-1
+"397","GB","GB-W2E-007","must","written","ed","SUB","SUB","third",1,-1
+"398","GB","GB-S1B-027","must","spoken","bdis","SUB","SUB","second",1,1
+"400","GB","GB-W2A-016","must","written","ASoc","X","OBJ","third",-0.5,-1
+"401","GB","GB-S2B-012","must","spoken","bnew","SUB","SUB","first",1,1
+"405","GB","GB-W2E-002","must","written","ed","SUB","SUB","third",1,-1
+"406","GB","GB-S1B-049","must","spoken","bint","SUB","SUB","first",1,1
+"407","GB","GB-W1B-004","must","written","sl","SUB","SUB","first",1,-1
+"408","GB","GB-W2A-017","must","written","ASoc","SUB","SUB","third",1,-1
+"411","GB","GB-W2C-008","must","written","rep","SUB","SUB","third",1,-1
+"412","GB","GB-S2A-066","must","spoken","leg","SUB","SUB","first",1,1
+"414","GB","GB-S2B-003","must","spoken","bnew","OBJ","SUB","third",0,1
+"415","GB","GB-S1B-078","must","spoken","btran","SUB","SUB","first",1,1
+"417","GB","GB-S2B-030","must","spoken","btal","SUB","SUB","first",1,1
+"418","GB","GB-W1B-013","must","written","sl","OBJ","SUB","first",0,-1
+"419","GB","GB-W1B-001","must","written","sl","OBJ","SUB","first",0,-1
+"421","GB","GB-S2B-030","must","spoken","btal","SUB","SUB","first",1,1
+"423","GB","GB-S1B-043","must","spoken","bint","OBJ","X","third",-0.5,1
+"425","GB","GB-S1B-078","must","spoken","btran","SUB","SUB","first",1,1
+"426","GB","GB-S2B-005","must","spoken","bnew","SUB","SUB","third",1,1
+"427","GB","GB-W2E-004","must","written","ed","SUB","SUB","third",1,-1
+"428","GB","GB-S2B-030","must","spoken","btal","SUB","SUB","third",1,1
+"434","USA","USA-W2E-007","must","written","ed","OBJ","OBJ","third",-1,-1
+"435","USA","USA-W2B-012","must","written","PSoc","SUB","SUB","first",1,-1
+"436","USA","USA-W1B-007","must","written","sl","SUB","SUB","first",1,-1
+"437","USA","USA-W2B-008","must","written","PHum","SUB","SUB","third",1,-1
+"438","USA","USA-W2C-014","must","written","rep","OBJ","OBJ","third",-1,-1
+"439","USA","USA-W2B-013","must","written","PSoc","SUB","SUB","first",1,-1
+"440","USA","USA-W2B-028","must","written","PNat","SUB","SUB","third",1,-1
+"445","USA","USA-W2C-018","must","written","rep","OBJ","OBJ","third",-1,-1
+"446","USA","USA-W2B-020","must","written","PSoc","SUB","SUB","first",1,-1
+"447","USA","USA-W2F-015","must","written","nov","OBJ","SUB","first",0,-1
+"449","USA","USA-W2B-008","must","written","PHum","OBJ","X","third",-0.5,-1
+"451","USA","USA-W2B-038","must","written","PTec","OBJ","SUB","third",0,-1
+"453","USA","USA-W2E-009","must","written","ed","SUB","SUB","third",1,-1
+"456","USA","USA-W2C-018","must","written","rep","OBJ","OBJ","third",-1,-1
+"460","USA","USA-W1B-013","must","written","sl","OBJ","OBJ","third",-1,-1
+"469","USA","USA-W2C-006","must","written","rep","OBJ","OBJ","third",-1,-1
+"471","USA","USA-W2F-015","must","written","nov","OBJ","X","third",-0.5,-1
+"473","USA","USA-W2B-008","must","written","PHum","OBJ","OBJ","third",-1,-1
+"474","USA","USA-W1B-011","must","written","sl","OBJ","OBJ","third",-1,-1
+"475","USA","USA-W2B-032","must","written","PTec","OBJ","OBJ","third",-1,-1
+"480","USA","USA-W2E-001","must","written","ed","SUB","X","third",0.5,-1
+"483","USA","USA-W1B-013","must","written","sl","OBJ","OBJ","third",-1,-1
+"485","USA","USA-W1B-009","must","written","sl","OBJ","OBJ","third",-1,-1
+"486","USA","USA-W2B-019","must","written","PSoc","OBJ","OBJ","third",-1,-1
+"488","USA","USA-W2B-037","must","written","PTec","OBJ","OBJ","third",-1,-1
+"489","USA","USA-W2A-012","must","written","ASoc","OBJ","OBJ","third",-1,-1
+"491","USA","USA-W2B-025","must","written","PNat","OBJ","OBJ","third",-1,-1
+"498","USA","USA-W2D-016","must","written","SkHo","OBJ","OBJ","third",-1,-1
+"499","USA","USA-W2B-009","must","written","PHum","OBJ","SUB","third",0,-1
+"501","USA","USA-W2A-016","must","written","ASoc","OBJ","SUB","third",0,-1
+"502","USA","USA-W2B-038","must","written","PTec","OBJ","SUB","third",0,-1
+"504","USA","USA-W2B-025","must","written","PNat","SUB","SUB","third",1,-1
+"506","USA","USA-W2C-020","must","written","rep","SUB","SUB","third",1,-1
+"508","USA","USA-W1B-013","must","written","sl","OBJ","OBJ","third",-1,-1
+"511","USA","USA-W2C-004","must","written","rep","OBJ","OBJ","third",-1,-1
+"515","USA","USA-W2B-015","must","written","PSoc","OBJ","OBJ","third",-1,-1
+"516","USA","USA-W2D-017","must","written","SkHo","OBJ","SUB","second",0,-1
+"517","USA","USA-W2F-003","must","written","nov","X","SUB","third",0.5,-1
+"521","USA","USA-W2B-013","must","written","PSoc","SUB","SUB","first",1,-1
+"522","USA","USA-W2E-006","must","written","ed","OBJ","SUB","third",0,-1
+"524","USA","USA-W2B-008","must","written","PHum","OBJ","SUB","third",0,-1
+"526","USA","USA-W2B-014","must","written","PSoc","OBJ","OBJ","third",-1,-1
+"529","USA","USA-W2C-002","must","written","rep","OBJ","SUB","third",0,-1
+"530","USA","USA-W2A-012","must","written","ASoc","X","OBJ","third",-0.5,-1
+"531","USA","USA-W2B-037","must","written","PTec","OBJ","OBJ","second",-1,-1
+"544","USA","USA-W2B-038","must","written","PTec","OBJ","OBJ","third",-1,-1
+"545","USA","USA-W2A-015","must","written","ASoc","SUB","SUB","first",1,-1
+"546","USA","USA-W2B-031","must","written","PTec","SUB","SUB","first",1,-1
+"547","USA","USA-W2F-015","must","written","nov","SUB","SUB","second",1,-1
+"548","USA","USA-W2C-014","must","written","rep","SUB","SUB","first",1,-1
+"549","USA","USA-W2B-009","must","written","PHum","SUB","SUB","first",1,-1
+"551","USA","USA-W2E-006","must","written","ed","OBJ","OBJ","third",-1,-1
+"552","USA","USA-W1B-008","must","written","sl","OBJ","SUB","first",0,-1
+"553","USA","USA-W1B-010","must","written","sl","OBJ","OBJ","third",-1,-1
+"557","USA","USA-W2A-012","must","written","ASoc","OBJ","OBJ","third",-1,-1
+"559","USA","USA-W2F-015","must","written","nov","OBJ","SUB","first",0,-1
+"563","USA","USA-W2B-038","must","written","PTec","OBJ","OBJ","third",-1,-1
+"564","USA","USA-W2B-008","must","written","PHum","OBJ","OBJ","third",-1,-1
+"566","USA","USA-W2B-006","must","written","PHum","OBJ","SUB","third",0,-1
+"567","USA","USA-W2E-009","must","written","ed","SUB","OBJ","third",0,-1
+"571","USA","USA-W2A-012","must","written","ASoc","OBJ","OBJ","third",-1,-1
+"572","USA","USA-W2B-019","must","written","PSoc","SUB","SUB","third",1,-1
+"575","USA","USA-W2A-012","must","written","ASoc","OBJ","OBJ","third",-1,-1
+"578","USA","USA-W2B-009","must","written","PHum","SUB","SUB","second",1,-1
+"579","USA","USA-W2C-014","must","written","rep","SUB","SUB","third",1,-1
+"580","USA","USA-W2A-012","must","written","ASoc","OBJ","OBJ","third",-1,-1
+"585","USA","USA-W1B-013","must","written","sl","OBJ","OBJ","third",-1,-1
+"589","USA","USA-W1B-015","must","written","sl","OBJ","OBJ","third",-1,-1
+"592","USA","USA-W2C-019","must","written","rep","OBJ","OBJ","third",-1,-1
+"596","USA","USA-W2B-033","must","written","PTec","OBJ","OBJ","third",-1,-1
+"597","USA","USA-W2A-012","must","written","ASoc","OBJ","OBJ","third",-1,-1
+"599","USA","USA-W2B-032","must","written","PTec","OBJ","OBJ","third",-1,-1
+"603","USA","USA-W2E-008","must","written","ed","OBJ","SUB","third",0,-1
+"608","USA","USA-W2D-020","must","written","SkHo","OBJ","OBJ","third",-1,-1
+"612","USA","USA-W2F-011","must","written","nov","SUB","SUB","first",1,-1
+"614","USA","USA-W2B-020","must","written","PSoc","OBJ","SUB","third",0,-1
+"615","USA","USA-W2A-012","must","written","ASoc","OBJ","OBJ","third",-1,-1
+"617","USA","USA-W2C-018","must","written","rep","OBJ","OBJ","third",-1,-1
+"618","USA","USA-W2E-002","must","written","ed","OBJ","OBJ","third",-1,-1
+"619","USA","USA-W2C-014","must","written","rep","OBJ","OBJ","third",-1,-1
+"620","USA","USA-W2B-009","must","written","PHum","SUB","SUB","first",1,-1
+"621","USA","USA-W2F-015","must","written","nov","OBJ","SUB","first",0,-1
+"622","USA","USA-W2F-015","must","written","nov","SUB","SUB","first",1,-1
+"624","USA","USA-W2F-010","must","written","nov","OBJ","SUB","third",0,-1
+"625","USA","USA-W2B-011","must","written","PSoc","OBJ","OBJ","third",-1,-1
+"628","USA","USA-W2A-012","must","written","ASoc","OBJ","OBJ","third",-1,-1
+"632","USA","USA-W2F-003","must","written","nov","OBJ","OBJ","third",-1,-1
+"633","USA","USA-W2F-015","must","written","nov","SUB","SUB","second",1,-1
+"635","SCO","SCO-ed-010","must","written","ed","SUB","SUB","third",1,-1
+"636","SCO","SCO-SkHo-006","must","written","SkHo","SUB","SUB","first",1,-1
+"637","SCO","SCO-nov-004","must","written","nov","SUB","SUB","first",1,-1
+"638","SCO","SCO-ed-017","must","written","ed","SUB","SUB","third",1,-1
+"639","SCO","SCO-ed-012","must","written","ed","SUB","SUB","third",1,-1
+"640","SCO","SCO-rep-003","must","written","rep","SUB","SUB","third",1,-1
+"641","SCO","SCO-ed-017","must","written","ed","SUB","SUB","third",1,-1
+"642","SCO","SCO-rep-056","must","written","rep","OBJ","OBJ","third",-1,-1
+"643","SCO","SCO-rep-056","must","written","rep","SUB","SUB","first",1,-1
+"644","SCO","SCO-ed-008","must","written","ed","SUB","SUB","third",1,-1
+"645","SCO","SCO-ed-019","must","written","ed","OBJ","OBJ","third",-1,-1
+"646","SCO","SCO-rep-073","must","written","rep","SUB","OBJ","third",0,-1
+"647","SCO","SCO-PNat-008","must","written","PNat","SUB","SUB","third",1,-1
+"648","SCO","SCO-rep-071","must","written","rep","SUB","SUB","third",1,-1
+"649","SCO","SCO-SkHo-004","must","written","SkHo","SUB","OBJ","second",0,-1
+"650","SCO","SCO-rep-062","must","written","rep","SUB","SUB","third",1,-1
+"651","SCO","SCO-PNat-008","must","written","PNat","SUB","SUB","third",1,-1
+"652","SCO","SCO-SkHo-004","must","written","SkHo","OBJ","OBJ","third",-1,-1
+"653","SCO","SCO-SkHo-004","must","written","SkHo","X","OBJ","third",-0.5,-1
+"654","SCO","SCO-rep-048","must","written","rep","SUB","SUB","third",1,-1
+"655","SCO","SCO-ed-029","must","written","ed","SUB","OBJ","third",0,-1
+"656","SCO","SCO-ASoc-001","must","written","ASoc","OBJ","OBJ","third",-1,-1
+"657","SCO","SCO-ed-008","must","written","ed","SUB","SUB","third",1,-1
+"658","SCO","SCO-ed-021","must","written","ed","SUB","SUB","third",1,-1
+"659","SCO","SCO-ed-010","must","written","ed","SUB","SUB","third",1,-1
+"660","SCO","SCO-rep-043","must","written","rep","SUB","SUB","third",1,-1
+"661","SCO","SCO-PNat-021","must","written","PNat","OBJ","OBJ","third",-1,-1
+"662","SCO","SCO-rep-020","must","written","rep","OBJ","OBJ","third",-1,-1
+"663","SCO","SCO-ed-028","must","written","ed","SUB","SUB","third",1,-1
+"664","SCO","SCO-ed-008","must","written","ed","SUB","SUB","first",1,-1
+"665","SCO","SCO-rep-073","must","written","rep","SUB","SUB","third",1,-1
+"666","SCO","SCO-ed-012","must","written","ed","SUB","SUB","third",1,-1
+"667","SCO","SCO-ed-008","must","written","ed","SUB","SUB","first",1,-1
+"668","SCO","SCO-ed-011","must","written","ed","SUB","SUB","third",1,-1
+"669","SCO","SCO-rep-046","must","written","rep","SUB","SUB","third",1,-1
+"670","SCO","SCO-ed-008","must","written","ed","SUB","SUB","first",1,-1
+"673","GB","GB-S2A-061","have to","spoken","leg","OBJ","OBJ","second",-1,1
+"674","GB","GB-S2A-061","have to","spoken","leg","SUB","OBJ","second",0,1
+"676","GB","GB-S1B-044","have to","spoken","bint","SUB","SUB","second",1,1
+"677","GB","GB-S1B-027","have to","spoken","bdis","OBJ","OBJ","third",-1,1
+"678","GB","GB-S2A-029","need to","spoken","unsp","OBJ","OBJ","second",-1,1
+"679","GB","GB-S1B-029","need to","spoken","bdis","OBJ","SUB","first",0,1
+"683","GB","GB-W2B-014","need to","written","PSoc","SUB","SUB","first",1,-1
+"684","GB","GB-S1B-028","have to","spoken","bdis","OBJ","OBJ","third",-1,1
+"687","GB","GB-S2A-027","have to","spoken","unsp","SUB","SUB","first",1,1
+"688","GB","GB-S2A-031","have to","spoken","unsp","SUB","SUB","first",1,1
+"689","GB","GB-S2B-008","have to","spoken","bnew","SUB","SUB","first",1,1
+"690","GB","GB-S2B-050","have to","spoken","nbtal","SUB","SUB","first",1,1
+"691","GB","GB-S1B-037","have to","spoken","bdis","X","SUB","first",0.5,1
+"693","GB","GB-S2A-035","have to","spoken","unsp","OBJ","OBJ","first",-1,1
+"696","GB","GB-W2A-016","need to","written","ASoc","SUB","OBJ","third",0,-1
+"701","GB","GB-S1B-035","have to","spoken","bdis","SUB","SUB","first",1,1
+"702","GB","GB-S2A-031","have to","spoken","unsp","SUB","SUB","first",1,1
+"703","GB","GB-W2C-005","have to","written","rep","SUB","SUB","first",1,-1
+"705","GB","GB-W2A-014","need to","written","ASoc","SUB","SUB","first",1,-1
+"706","GB","GB-S1B-031","have to","spoken","bdis","OBJ","SUB","second",0,1
+"707","GB","GB-S1B-027","have to","spoken","bdis","OBJ","OBJ","first",-1,1
+"708","GB","GB-S1B-043","have to","spoken","bint","OBJ","SUB","first",0,1
+"713","GB","GB-S2B-012","have to","spoken","bnew","OBJ","OBJ","third",-1,1
+"719","GB","GB-S1B-031","have to","spoken","bdis","OBJ","X","third",-0.5,1
+"720","GB","GB-S1B-036","have to","spoken","bdis","SUB","SUB","first",1,1
+"722","GB","GB-S2B-013","have to","spoken","bnew","SUB","OBJ","third",0,1
+"723","GB","GB-W2C-011","have to","written","rep","SUB","SUB","third",1,-1
+"725","GB","GB-W2F-007","need to","written","nov","OBJ","OBJ","second",-1,-1
+"727","GB","GB-S1B-043","(have) got to","spoken","bint","OBJ","OBJ","second",-1,1
+"728","GB","GB-W2A-011","need to","written","ASoc","OBJ","OBJ","third",-1,-1
+"730","GB","GB-W2C-018","have to","written","rep","SUB","X","third",0.5,-1
+"731","GB","GB-S1B-025","need to","spoken","bdis","OBJ","X","third",-0.5,1
+"732","GB","GB-S1B-031","have to","spoken","bdis","SUB","SUB","third",1,1
+"733","GB","GB-S2B-050","have to","spoken","nbtal","OBJ","OBJ","third",-1,1
+"734","GB","GB-W2A-011","have to","written","ASoc","SUB","OBJ","third",0,-1
+"735","GB","GB-S2B-032","have to","spoken","btal","X","SUB","third",0.5,1
+"736","GB","GB-W2D-011","have to","written","SkHo","OBJ","OBJ","third",-1,-1
+"738","GB","GB-W2D-013","need to","written","SkHo","OBJ","OBJ","second",-1,-1
+"739","GB","GB-S1B-046","need to","spoken","bint","SUB","SUB","first",1,1
+"741","GB","GB-S2A-034","have to","spoken","unsp","OBJ","OBJ","third",-1,1
+"743","GB","GB-S2A-064","have to","spoken","leg","OBJ","OBJ","third",-1,1
+"744","GB","GB-S2A-021","have to","spoken","unsp","SUB","OBJ","third",0,1
+"745","GB","GB-S1B-078","have to","spoken","btran","X","SUB","third",0.5,1
+"746","GB","GB-W2D-014","have to","written","SkHo","OBJ","OBJ","third",-1,-1
+"747","GB","GB-S2A-040","need to","spoken","unsp","SUB","OBJ","third",0,1
+"748","GB","GB-S1B-071","(have) got to","spoken","btran","OBJ","OBJ","third",-1,1
+"750","GB","GB-W2F-015","need to","written","nov","OBJ","OBJ","third",-1,-1
+"751","GB","GB-S1B-036","(have) got to","spoken","bdis","SUB","SUB","third",1,1
+"753","GB","GB-S2B-012","(have) got to","spoken","bnew","OBJ","OBJ","third",-1,1
+"758","GB","GB-W2C-016","have to","written","rep","OBJ","OBJ","third",-1,-1
+"759","GB","GB-W2B-040","need to","written","PTec","OBJ","OBJ","third",-1,-1
+"761","GB","GB-W2A-016","need to","written","ASoc","OBJ","OBJ","third",-1,-1
+"762","GB","GB-W2C-020","have to","written","rep","OBJ","OBJ","third",-1,-1
+"764","GB","GB-W2A-017","need to","written","ASoc","SUB","SUB","third",1,-1
+"765","GB","GB-S1B-030","need to","spoken","bdis","SUB","OBJ","first",0,1
+"768","GB","GB-W2A-020","need to","written","ASoc","SUB","SUB","third",1,-1
+"769","GB","GB-W2B-020","have to","written","PSoc","SUB","OBJ","third",0,-1
+"770","GB","GB-S2A-035","have to","spoken","unsp","OBJ","SUB","third",0,1
+"771","GB","GB-S1B-043","have to","spoken","bint","SUB","SUB","third",1,1
+"772","GB","GB-W2C-008","have to","written","rep","SUB","SUB","third",1,-1
+"773","GB","GB-S2B-038","have to","spoken","btal","OBJ","X","third",-0.5,1
+"775","GB","GB-W2B-017","need to","written","PSoc","OBJ","OBJ","third",-1,-1
+"777","GB","GB-W2E-002","have to","written","ed","OBJ","OBJ","third",-1,-1
+"783","GB","GB-S1B-027","have to","spoken","bdis","OBJ","SUB","third",0,1
+"784","GB","GB-S2A-049","need to","spoken","unsp","OBJ","SUB","third",0,1
+"785","GB","GB-S2B-024","have to","spoken","btal","OBJ","OBJ","third",-1,1
+"786","GB","GB-S1B-041","(have) got to","spoken","bint","SUB","SUB","third",1,1
+"788","GB","GB-S2A-054","have to","spoken","dem","OBJ","OBJ","third",-1,1
+"789","GB","GB-W2B-030","have to","written","PNat","OBJ","OBJ","third",-1,-1
+"790","GB","GB-S2B-037","have to","spoken","btal","SUB","X","third",0.5,1
+"791","GB","GB-S2A-046","need to","spoken","unsp","OBJ","SUB","third",0,1
+"792","GB","GB-S2A-027","need to","spoken","unsp","SUB","SUB","third",1,1
+"794","GB","GB-S2B-028","have to","spoken","btal","SUB","SUB","third",1,1
+"795","GB","GB-S2B-040","have to","spoken","btal","SUB","SUB","third",1,1
+"796","GB","GB-W2B-040","have to","written","PTec","SUB","SUB","third",1,-1
+"798","GB","GB-S1B-073","need to","spoken","btran","X","OBJ","third",-0.5,1
+"799","GB","GB-S1B-037","(have) got to","spoken","bdis","OBJ","OBJ","third",-1,1
+"800","GB","GB-W2C-013","have to","written","rep","OBJ","OBJ","third",-1,-1
+"801","GB","GB-S2B-030","have to","spoken","btal","OBJ","OBJ","third",-1,1
+"803","GB","GB-S2B-048","have to","spoken","nbtal","OBJ","OBJ","third",-1,1
+"804","GB","GB-S2A-037","have to","spoken","unsp","OBJ","OBJ","second",-1,1
+"805","GB","GB-W2B-017","need to","written","PSoc","OBJ","OBJ","third",-1,-1
+"807","GB","GB-W1B-006","have to","written","sl","SUB","SUB","first",1,-1
+"810","GB","GB-S1B-035","need to","spoken","bdis","OBJ","OBJ","third",-1,1
+"811","GB","GB-W2F-004","have to","written","nov","OBJ","OBJ","third",-1,-1
+"813","GB","GB-W2A-019","have to","written","ASoc","OBJ","OBJ","third",-1,-1
+"817","GB","GB-W2D-017","have to","written","SkHo","OBJ","OBJ","third",-1,-1
+"818","GB","GB-W2E-003","need to","written","ed","SUB","SUB","third",1,-1
+"819","GB","GB-S2A-049","have to","spoken","unsp","OBJ","OBJ","third",-1,1
+"820","GB","GB-S2A-054","have to","spoken","dem","OBJ","OBJ","third",-1,1
+"821","GB","GB-S1B-041","(have) got to","spoken","bint","OBJ","OBJ","first",-1,1
+"822","GB","GB-S1B-079","have to","spoken","btran","OBJ","OBJ","third",-1,1
+"824","GB","GB-S1B-047","have to","spoken","bint","OBJ","SUB","third",0,1
+"825","GB","GB-W2C-016","have to","written","rep","OBJ","OBJ","third",-1,-1
+"827","GB","GB-W2D-011","have to","written","SkHo","OBJ","OBJ","third",-1,-1
+"828","GB","GB-S1B-031","have to","spoken","bdis","OBJ","SUB","third",0,1
+"829","GB","GB-S2B-040","have to","spoken","btal","SUB","SUB","third",1,1
+"834","GB","GB-S2A-029","(have) got to","spoken","unsp","OBJ","OBJ","third",-1,1
+"837","GB","GB-S2A-038","(have) got to","spoken","unsp","OBJ","OBJ","second",-1,1
+"838","GB","GB-S1B-075","have to","spoken","btran","OBJ","OBJ","third",-1,1
+"839","GB","GB-S2B-032","have to","spoken","btal","OBJ","OBJ","third",-1,1
+"840","GB","GB-W2F-001","have to","written","nov","OBJ","SUB","third",0,-1
+"841","GB","GB-S1B-022","have to","spoken","bdis","OBJ","SUB","third",0,1
+"842","GB","GB-W2D-014","have to","written","SkHo","OBJ","OBJ","third",-1,-1
+"845","GB","GB-W2D-016","need to","written","SkHo","OBJ","OBJ","third",-1,-1
+"846","GB","GB-S2A-061","have to","spoken","leg","OBJ","OBJ","third",-1,1
+"847","GB","GB-S2B-047","have to","spoken","nbtal","OBJ","OBJ","third",-1,1
+"849","GB","GB-S2B-037","need to","spoken","btal","SUB","SUB","third",1,1
+"851","GB","GB-W2D-013","need to","written","SkHo","OBJ","OBJ","second",-1,-1
+"852","GB","GB-W2C-009","have to","written","rep","SUB","SUB","third",1,-1
+"853","GB","GB-S2B-010","need to","spoken","bnew","OBJ","SUB","third",0,1
+"854","GB","GB-S2A-068","have to","spoken","leg","SUB","SUB","third",1,1
+"856","GB","GB-S2B-007","have to","spoken","bnew","OBJ","SUB","third",0,1
+"857","GB","GB-W2B-038","need to","written","PTec","OBJ","OBJ","third",-1,-1
+"858","GB","GB-S1B-023","(have) got to","spoken","bdis","OBJ","OBJ","third",-1,1
+"861","GB","GB-S2A-038","have to","spoken","unsp","OBJ","OBJ","third",-1,1
+"862","GB","GB-S1B-043","have to","spoken","bint","SUB","SUB","third",1,1
+"863","GB","GB-S2A-029","(have) got to","spoken","unsp","OBJ","OBJ","third",-1,1
+"864","GB","GB-S2A-026","have to","spoken","unsp","SUB","SUB","third",1,1
+"865","GB","GB-S2B-003","have to","spoken","bnew","SUB","SUB","third",1,1
+"866","GB","GB-W2C-013","have to","written","rep","SUB","SUB","third",1,-1
+"868","GB","GB-W2A-014","need to","written","ASoc","SUB","SUB","third",1,-1
+"869","GB","GB-S1B-048","(have) got to","spoken","bint","OBJ","SUB","second",0,1
+"870","GB","GB-W2E-004","need to","written","ed","SUB","SUB","third",1,-1
+"871","GB","GB-S2A-069","have to","spoken","leg","X","OBJ","third",-0.5,1
+"873","GB","GB-S1B-079","have to","spoken","btran","X","X","third",0,1
+"874","GB","GB-S1B-079","(have) got to","spoken","btran","SUB","X","third",0.5,1
+"875","GB","GB-S2A-032","have to","spoken","unsp","OBJ","X","third",-0.5,1
+"878","GB","GB-S2B-038","have to","spoken","btal","OBJ","SUB","third",0,1
+"879","GB","GB-W2C-017","have to","written","rep","OBJ","OBJ","third",-1,-1
+"881","GB","GB-W2B-018","have to","written","PSoc","OBJ","SUB","third",0,-1
+"882","GB","GB-S2B-030","have to","spoken","btal","SUB","SUB","first",1,1
+"884","GB","GB-S2A-031","need to","spoken","unsp","SUB","SUB","third",1,1
+"885","GB","GB-W2A-018","need to","written","ASoc","OBJ","SUB","third",0,-1
+"886","GB","GB-W2B-013","have to","written","PSoc","SUB","SUB","third",1,-1
+"887","GB","GB-W2B-023","have to","written","PNat","OBJ","OBJ","third",-1,-1
+"888","GB","GB-W2D-015","need to","written","SkHo","OBJ","OBJ","third",-1,-1
+"889","GB","GB-S1B-027","have to","spoken","bdis","OBJ","SUB","third",0,1
+"890","GB","GB-S1B-027","have to","spoken","bdis","OBJ","SUB","third",0,1
+"892","GB","GB-W2F-015","have to","written","nov","SUB","SUB","third",1,-1
+"894","GB","GB-S1B-078","have to","spoken","btran","OBJ","SUB","first",0,1
+"895","GB","GB-S1B-026","(have) got to","spoken","bdis","OBJ","OBJ","third",-1,1
+"896","GB","GB-W2D-012","have to","written","SkHo","OBJ","OBJ","third",-1,-1
+"898","GB","GB-W2B-034","have to","written","PTec","OBJ","OBJ","third",-1,-1
+"900","GB","GB-W2E-008","have to","written","ed","OBJ","X","third",-0.5,-1
+"901","GB","GB-S1B-029","have to","spoken","bdis","OBJ","OBJ","third",-1,1
+"902","GB","GB-S1B-031","have to","spoken","bdis","OBJ","OBJ","second",-1,1
+"904","GB","GB-S2B-010","have to","spoken","bnew","OBJ","OBJ","third",-1,1
+"908","GB","GB-S1B-075","have to","spoken","btran","OBJ","OBJ","third",-1,1
+"910","GB","GB-W2C-012","need to","written","rep","SUB","OBJ","third",0,-1
+"911","GB","GB-W2C-017","have to","written","rep","SUB","OBJ","second",0,-1
+"912","GB","GB-S1B-048","have to","spoken","bint","OBJ","OBJ","third",-1,1
+"914","GB","GB-S1B-021","have to","spoken","bdis","X","SUB","second",0.5,1
+"915","GB","GB-W2B-017","have to","written","PSoc","OBJ","OBJ","third",-1,-1
+"917","GB","GB-S1B-031","have to","spoken","bdis","SUB","SUB","second",1,1
+"918","GB","GB-W2F-015","have to","written","nov","X","SUB","first",0.5,-1
+"919","GB","GB-S2A-034","need to","spoken","unsp","OBJ","SUB","first",0,1
+"920","GB","GB-W2D-017","have to","written","SkHo","OBJ","OBJ","second",-1,-1
+"925","GB","GB-S2B-013","have to","spoken","bnew","OBJ","OBJ","first",-1,1
+"926","GB","GB-W2B-035","have to","written","PTec","OBJ","OBJ","third",-1,-1
+"932","GB","GB-W2B-013","have to","written","PSoc","SUB","SUB","second",1,-1
+"933","GB","GB-S2A-043","have to","spoken","unsp","OBJ","OBJ","second",-1,1
+"937","GB","GB-S2B-011","have to","spoken","bnew","OBJ","OBJ","third",-1,1
+"941","GB","GB-W2F-015","have to","written","nov","SUB","SUB","first",1,-1
+"944","GB","GB-W2C-008","have to","written","rep","OBJ","OBJ","third",-1,-1
+"945","GB","GB-W1B-010","have to","written","sl","SUB","SUB","first",1,-1
+"946","GB","GB-S1B-031","have to","spoken","bdis","SUB","SUB","first",1,1
+"947","GB","GB-S2A-046","have to","spoken","unsp","OBJ","OBJ","first",-1,1
+"949","GB","GB-W2C-014","(have) got to","written","rep","SUB","SUB","first",1,-1
+"950","GB","GB-W2B-021","have to","written","PNat","OBJ","OBJ","third",-1,-1
+"951","GB","GB-S2A-032","have to","spoken","unsp","OBJ","OBJ","third",-1,1
+"952","GB","GB-S1B-034","have to","spoken","bdis","X","SUB","third",0.5,1
+"955","GB","GB-S2A-029","have to","spoken","unsp","OBJ","OBJ","third",-1,1
+"956","GB","GB-S2A-055","have to","spoken","dem","OBJ","OBJ","third",-1,1
+"959","GB","GB-W2B-001","have to","written","PHum","OBJ","OBJ","second",-1,-1
+"960","GB","GB-S1B-021","(have) got to","spoken","bdis","SUB","OBJ","second",0,1
+"961","GB","GB-W2D-013","have to","written","SkHo","OBJ","OBJ","third",-1,-1
+"963","GB","GB-W1B-010","need to","written","sl","OBJ","SUB","third",0,-1
+"965","GB","GB-S1B-043","have to","spoken","bint","OBJ","SUB","third",0,1
+"966","GB","GB-S2A-061","have to","spoken","leg","SUB","SUB","second",1,1
+"968","GB","GB-S2B-007","have to","spoken","bnew","SUB","SUB","first",1,1
+"969","GB","GB-S1B-079","have to","spoken","btran","SUB","SUB","second",1,1
+"972","GB","GB-W2E-007","have to","written","ed","OBJ","OBJ","third",-1,-1
+"974","GB","GB-S2A-052","have to","spoken","dem","OBJ","OBJ","first",-1,1
+"981","GB","GB-S2A-068","have to","spoken","leg","OBJ","OBJ","second",-1,1
+"982","GB","GB-S2A-028","have to","spoken","unsp","OBJ","OBJ","second",-1,1
+"984","GB","GB-S1B-077","need to","spoken","btran","SUB","SUB","first",1,1
+"985","GB","GB-S1B-077","have to","spoken","btran","SUB","SUB","first",1,1
+"986","GB","GB-S2A-066","have to","spoken","leg","OBJ","OBJ","first",-1,1
+"987","GB","GB-W2B-020","have to","written","PSoc","OBJ","OBJ","third",-1,-1
+"990","GB","GB-S1B-024","have to","spoken","bdis","OBJ","SUB","third",0,1
+"991","GB","GB-S2A-063","have to","spoken","leg","OBJ","OBJ","third",-1,1
+"992","GB","GB-S1B-077","have to","spoken","btran","SUB","SUB","first",1,1
+"993","GB","GB-S1B-073","have to","spoken","btran","SUB","OBJ","second",0,1
+"994","GB","GB-S2A-068","have to","spoken","leg","OBJ","OBJ","second",-1,1
+"997","GB","GB-W2E-010","need to","written","ed","SUB","SUB","third",1,-1
+"998","GB","GB-W2A-014","need to","written","ASoc","SUB","SUB","first",1,-1
+"1001","GB","GB-S1B-048","have to","spoken","bint","SUB","X","second",0.5,1
+"1002","GB","GB-S2B-046","have to","spoken","nbtal","OBJ","OBJ","third",-1,1
+"1005","GB","GB-S2B-007","(have) got to","spoken","bnew","SUB","SUB","first",1,1
+"1007","GB","GB-S1B-027","have to","spoken","bdis","SUB","SUB","first",1,1
+"1010","GB","GB-W2F-004","have to","written","nov","OBJ","SUB","first",0,-1
+"1011","GB","GB-S2B-011","have to","spoken","bnew","OBJ","OBJ","third",-1,1
+"1017","GB","GB-S1B-075","have to","spoken","btran","OBJ","OBJ","second",-1,1
+"1021","GB","GB-S1B-030","have to","spoken","bdis","OBJ","OBJ","first",-1,1
+"1023","GB","GB-S2A-028","need to","spoken","unsp","SUB","OBJ","second",0,1
+"1024","GB","GB-W1B-004","have to","written","sl","OBJ","X","first",-0.5,-1
+"1025","GB","GB-W2C-007","have to","written","rep","OBJ","OBJ","third",-1,-1
+"1026","GB","GB-S1B-031","have to","spoken","bdis","OBJ","SUB","third",0,1
+"1027","GB","GB-S2A-035","have to","spoken","unsp","OBJ","OBJ","third",-1,1
+"1032","GB","GB-S1B-025","need to","spoken","bdis","OBJ","SUB","second",0,1
+"1033","GB","GB-S1B-027","have to","spoken","bdis","SUB","SUB","first",1,1
+"1034","GB","GB-S1B-050","(have) got to","spoken","bint","SUB","SUB","second",1,1
+"1035","GB","GB-S1B-050","(have) got to","spoken","bint","SUB","SUB","first",1,1
+"1037","GB","GB-S1B-079","have to","spoken","btran","SUB","OBJ","second",0,1
+"1038","GB","GB-S2A-041","have to","spoken","unsp","OBJ","OBJ","second",-1,1
+"1039","GB","GB-S2A-054","need to","spoken","dem","OBJ","OBJ","second",-1,1
+"1040","GB","GB-S2A-058","have to","spoken","dem","OBJ","OBJ","second",-1,1
+"1041","GB","GB-S2A-058","have to","spoken","dem","OBJ","OBJ","second",-1,1
+"1042","GB","GB-W2E-008","have to","written","ed","OBJ","SUB","third",0,-1
+"1046","GB","GB-S1B-023","(have) got to","spoken","bdis","OBJ","OBJ","third",-1,1
+"1047","GB","GB-S1B-077","have to","spoken","btran","OBJ","SUB","first",0,1
+"1049","GB","GB-W2C-015","(have) got to","written","rep","SUB","SUB","first",1,-1
+"1050","GB","GB-W2E-004","have to","written","ed","OBJ","OBJ","second",-1,-1
+"1052","GB","GB-S1B-030","need to","spoken","bdis","OBJ","SUB","first",0,1
+"1053","GB","GB-S1B-079","have to","spoken","btran","OBJ","X","third",-0.5,1
+"1056","GB","GB-S2A-035","(have) got to","spoken","unsp","OBJ","OBJ","third",-1,1
+"1057","GB","GB-S2B-037","have to","spoken","btal","OBJ","OBJ","third",-1,1
+"1060","GB","GB-W2D-014","need to","written","SkHo","OBJ","OBJ","second",-1,-1
+"1061","GB","GB-S1B-027","have to","spoken","bdis","OBJ","SUB","second",0,1
+"1065","GB","GB-W2C-014","(have) got to","written","rep","SUB","SUB","third",1,-1
+"1066","GB","GB-S1B-079","have to","spoken","btran","SUB","OBJ","second",0,1
+"1067","GB","GB-S1B-079","have to","spoken","btran","SUB","X","third",0.5,1
+"1069","GB","GB-S2A-047","have to","spoken","unsp","OBJ","OBJ","third",-1,1
+"1072","GB","GB-S2B-037","have to","spoken","btal","OBJ","OBJ","third",-1,1
+"1074","GB","GB-S1B-028","have to","spoken","bdis","OBJ","SUB","third",0,1
+"1076","GB","GB-W2A-014","need to","written","ASoc","SUB","SUB","first",1,-1
+"1077","GB","GB-W2B-017","have to","written","PSoc","X","OBJ","third",-0.5,-1
+"1080","GB","GB-S2A-035","have to","spoken","unsp","X","OBJ","third",-0.5,1
+"1082","GB","GB-W2B-027","have to","written","PNat","OBJ","OBJ","third",-1,-1
+"1083","GB","GB-S2B-019","need to","spoken","bnew","OBJ","OBJ","third",-1,1
+"1085","GB","GB-W2E-002","have to","written","ed","OBJ","OBJ","third",-1,-1
+"1086","GB","GB-W2E-007","have to","written","ed","OBJ","OBJ","third",-1,-1
+"1092","GB","GB-S1B-077","need to","spoken","btran","OBJ","SUB","first",0,1
+"1093","GB","GB-W2C-020","need to","written","rep","SUB","SUB","first",1,-1
+"1095","GB","GB-S2B-009","(have) got to","spoken","bnew","OBJ","OBJ","third",-1,1
+"1096","GB","GB-W1B-009","have to","written","sl","OBJ","OBJ","third",-1,-1
+"1099","GB","GB-S1B-047","have to","spoken","bint","OBJ","OBJ","first",-1,1
+"1101","GB","GB-S2A-037","have to","spoken","unsp","OBJ","OBJ","second",-1,1
+"1105","GB","GB-S1B-073","(have) got to","spoken","btran","OBJ","SUB","first",0,1
+"1106","GB","GB-S2A-043","have to","spoken","unsp","OBJ","OBJ","third",-1,1
+"1109","GB","GB-W2D-013","need to","written","SkHo","OBJ","SUB","second",0,-1
+"1110","GB","GB-S1B-029","(have) got to","spoken","bdis","OBJ","SUB","first",0,1
+"1113","GB","GB-S1B-079","have to","spoken","btran","OBJ","OBJ","third",-1,1
+"1115","GB","GB-S1B-036","need to","spoken","bdis","SUB","SUB","first",1,1
+"1119","GB","GB-S1B-047","have to","spoken","bint","OBJ","OBJ","second",-1,1
+"1124","GB","GB-S1B-050","(have) got to","spoken","bint","SUB","SUB","first",1,1
+"1127","GB","GB-S2A-043","(have) got to","spoken","unsp","OBJ","OBJ","third",-1,1
+"1128","GB","GB-S2B-011","have to","spoken","bnew","SUB","OBJ","first",0,1
+"1130","GB","GB-W1B-003","(have) got to","written","sl","OBJ","SUB","first",0,-1
+"1131","GB","GB-W1B-007","(have) got to","written","sl","OBJ","OBJ","first",-1,-1
+"1133","GB","GB-S1B-050","(have) got to","spoken","bint","SUB","SUB","first",1,1
+"1134","GB","GB-W1B-015","have to","written","sl","OBJ","OBJ","first",-1,-1
+"1135","GB","GB-W2F-012","have to","written","nov","SUB","SUB","first",1,-1
+"1137","GB","GB-S1B-048","have to","spoken","bint","X","X","second",0,1
+"1138","GB","GB-S2A-038","(have) got to","spoken","unsp","OBJ","SUB","second",0,1
+"1141","GB","GB-S2A-024","have to","spoken","unsp","OBJ","OBJ","second",-1,1
+"1146","GB","GB-S1B-038","(have) got to","spoken","bdis","OBJ","OBJ","second",-1,1
+"1147","GB","GB-S2A-050","(have) got to","spoken","unsp","OBJ","SUB","first",0,1
+"1149","GB","GB-S1B-042","have to","spoken","bint","OBJ","OBJ","first",-1,1
+"1154","GB","GB-W1B-001","(have) got to","written","sl","OBJ","SUB","first",0,-1
+"1156","GB","GB-S1B-049","(have) got to","spoken","bint","OBJ","OBJ","third",-1,1
+"1157","GB","GB-W1B-004","need to","written","sl","OBJ","SUB","first",0,-1
+"1158","GB","GB-W2F-002","have to","written","nov","SUB","OBJ","first",0,-1
+"1159","GB","GB-W2C-018","have to","written","rep","SUB","OBJ","third",0,-1
+"1161","GB","GB-S1B-078","need to","spoken","btran","OBJ","OBJ","second",-1,1
+"1163","GB","GB-S2A-046","have to","spoken","unsp","OBJ","OBJ","first",-1,1
+"1165","GB","GB-W2F-003","have to","written","nov","X","SUB","first",0.5,-1
+"1166","GB","GB-S1B-047","have to","spoken","bint","SUB","SUB","first",1,1
+"1167","GB","GB-W2E-009","need to","written","ed","OBJ","OBJ","third",-1,-1
+"1168","GB","GB-S2A-037","have to","spoken","unsp","OBJ","OBJ","third",-1,1
+"1170","GB","GB-W1B-009","have to","written","sl","OBJ","OBJ","second",-1,-1
+"1175","GB","GB-S1B-027","have to","spoken","bdis","X","SUB","third",0.5,1
+"1176","GB","GB-S2A-023","need to","spoken","unsp","OBJ","OBJ","third",-1,1
+"1183","GB","GB-S1B-080","have to","spoken","btran","SUB","OBJ","second",0,1
+"1185","GB","GB-W2C-013","need to","written","rep","OBJ","OBJ","third",-1,-1
+"1186","GB","GB-S2A-037","have to","spoken","unsp","SUB","OBJ","third",0,1
+"1189","GB","GB-W1B-003","have to","written","sl","OBJ","OBJ","third",-1,-1
+"1190","GB","GB-S2A-047","have to","spoken","unsp","OBJ","OBJ","second",-1,1
+"1192","GB","GB-W2F-016","need to","written","nov","OBJ","OBJ","third",-1,-1
+"1193","GB","GB-W2F-007","need to","written","nov","OBJ","OBJ","third",-1,-1
+"1195","GB","GB-S1B-075","have to","spoken","btran","SUB","OBJ","first",0,1
+"1196","GB","GB-S1B-071","(have) got to","spoken","btran","SUB","OBJ","second",0,1
+"1200","GB","GB-S1B-031","have to","spoken","bdis","SUB","OBJ","second",0,1
+"1201","GB","GB-S1B-033","have to","spoken","bdis","SUB","SUB","third",1,1
+"1203","GB","GB-S1B-036","(have) got to","spoken","bdis","SUB","OBJ","second",0,1
+"1204","GB","GB-S1B-078","have to","spoken","btran","SUB","SUB","first",1,1
+"1205","GB","GB-S1B-045","have to","spoken","bint","X","SUB","second",0.5,1
+"1207","GB","GB-S1B-047","need to","spoken","bint","SUB","OBJ","first",0,1
+"1208","GB","GB-S2A-058","have to","spoken","dem","OBJ","OBJ","second",-1,1
+"1209","GB","GB-S2B-031","have to","spoken","btal","OBJ","OBJ","third",-1,1
+"1213","GB","GB-W2D-017","have to","written","SkHo","OBJ","OBJ","third",-1,-1
+"1214","GB","GB-S2A-052","have to","spoken","dem","SUB","OBJ","first",0,1
+"1215","GB","GB-W2C-009","need to","written","rep","SUB","SUB","first",1,-1
+"1216","GB","GB-W2B-004","(have) got to","written","PHum","OBJ","OBJ","second",-1,-1
+"1217","GB","GB-W2C-014","have to","written","rep","SUB","SUB","first",1,-1
+"1221","GB","GB-W2F-002","have to","written","nov","SUB","SUB","first",1,-1
+"1222","GB","GB-W1B-007","have to","written","sl","OBJ","OBJ","second",-1,-1
+"1229","GB","GB-S2B-025","have to","spoken","btal","OBJ","OBJ","third",-1,1
+"1230","GB","GB-S1B-072","have to","spoken","btran","SUB","SUB","first",1,1
+"1231","GB","GB-S1B-026","have to","spoken","bdis","OBJ","OBJ","third",-1,1
+"1232","GB","GB-S2A-027","have to","spoken","unsp","OBJ","OBJ","second",-1,1
+"1236","GB","GB-S2A-053","need to","spoken","dem","OBJ","SUB","first",0,1
+"1238","GB","GB-S1B-080","need to","spoken","btran","SUB","SUB","first",1,1
+"1239","GB","GB-S2A-028","need to","spoken","unsp","OBJ","SUB","second",0,1
+"1240","GB","GB-S2A-028","need to","spoken","unsp","OBJ","OBJ","second",-1,1
+"1241","GB","GB-S2B-030","need to","spoken","btal","SUB","SUB","third",1,1
+"1242","GB","GB-W2A-016","need to","written","ASoc","OBJ","OBJ","third",-1,-1
+"1243","GB","GB-S2A-028","have to","spoken","unsp","OBJ","OBJ","second",-1,1
+"1244","GB","GB-S2A-028","have to","spoken","unsp","OBJ","OBJ","second",-1,1
+"1245","GB","GB-S2A-053","have to","spoken","dem","OBJ","OBJ","first",-1,1
+"1246","GB","GB-S1B-080","need to","spoken","btran","X","OBJ","first",-0.5,1
+"1247","GB","GB-S1B-078","need to","spoken","btran","OBJ","SUB","second",0,1
+"1252","GB","GB-W1B-001","have to","written","sl","SUB","SUB","first",1,-1
+"1253","GB","GB-W2E-007","have to","written","ed","SUB","SUB","third",1,-1
+"1256","GB","GB-S1B-041","(have) got to","spoken","bint","SUB","SUB","second",1,1
+"1257","GB","GB-S2A-035","have to","spoken","unsp","OBJ","OBJ","third",-1,1
+"1268","GB","GB-S2A-030","have to","spoken","unsp","SUB","OBJ","first",0,1
+"1269","GB","GB-S1B-035","have to","spoken","bdis","OBJ","OBJ","first",-1,1
+"1270","GB","GB-S2A-038","(have) got to","spoken","unsp","OBJ","OBJ","second",-1,1
+"1271","GB","GB-W2B-013","have to","written","PSoc","OBJ","OBJ","third",-1,-1
+"1272","GB","GB-W2C-011","(have) got to","written","rep","OBJ","OBJ","third",-1,-1
+"1276","GB","GB-W2B-013","have to","written","PSoc","OBJ","OBJ","third",-1,-1
+"1277","GB","GB-W2B-013","have to","written","PSoc","OBJ","OBJ","third",-1,-1
+"1278","GB","GB-W2B-022","have to","written","PNat","OBJ","OBJ","second",-1,-1
+"1279","GB","GB-S1B-037","have to","spoken","bdis","OBJ","OBJ","third",-1,1
+"1282","GB","GB-S1B-049","(have) got to","spoken","bint","OBJ","SUB","first",0,1
+"1283","GB","GB-S2A-022","have to","spoken","unsp","OBJ","SUB","first",0,1
+"1284","GB","GB-S2A-042","(have) got to","spoken","unsp","X","SUB","second",0.5,1
+"1285","GB","GB-S2A-058","need to","spoken","dem","OBJ","SUB","first",0,1
+"1286","GB","GB-S2A-059","need to","spoken","dem","SUB","SUB","second",1,1
+"1287","GB","GB-W2B-026","have to","written","PNat","OBJ","SUB","second",0,-1
+"1291","GB","GB-W1B-003","have to","written","sl","X","SUB","second",0.5,-1
+"1292","GB","GB-W1B-003","have to","written","sl","OBJ","SUB","second",0,-1
+"1293","GB","GB-W2B-020","need to","written","PSoc","OBJ","OBJ","third",-1,-1
+"1296","GB","GB-S1B-073","have to","spoken","btran","OBJ","OBJ","third",-1,1
+"1297","GB","GB-S2B-007","have to","spoken","bnew","SUB","SUB","first",1,1
+"1299","GB","GB-S1B-036","have to","spoken","bdis","OBJ","SUB","third",0,1
+"1300","GB","GB-S2A-033","need to","spoken","unsp","SUB","SUB","third",1,1
+"1302","GB","GB-W2F-008","have to","written","nov","OBJ","SUB","first",0,-1
+"1303","GB","GB-S2A-043","have to","spoken","unsp","OBJ","OBJ","third",-1,1
+"1304","GB","GB-S1B-075","(have) got to","spoken","btran","SUB","SUB","first",1,1
+"1305","GB","GB-S2B-002","need to","spoken","bnew","OBJ","OBJ","third",-1,1
+"1308","GB","GB-W1B-004","(have) got to","written","sl","SUB","SUB","first",1,-1
+"1310","GB","GB-W2B-017","have to","written","PSoc","OBJ","OBJ","third",-1,-1
+"1312","GB","GB-S2B-010","have to","spoken","bnew","SUB","SUB","second",1,1
+"1314","GB","GB-S2A-053","have to","spoken","dem","OBJ","OBJ","first",-1,1
+"1315","GB","GB-S2B-011","have to","spoken","bnew","OBJ","OBJ","third",-1,1
+"1316","GB","GB-W1B-012","have to","written","sl","OBJ","OBJ","first",-1,-1
+"1319","GB","GB-W1B-010","have to","written","sl","OBJ","SUB","first",0,-1
+"1322","GB","GB-S1B-043","have to","spoken","bint","OBJ","OBJ","third",-1,1
+"1326","GB","GB-W1B-002","have to","written","sl","OBJ","OBJ","second",-1,-1
+"1331","GB","GB-S2B-030","have to","spoken","btal","OBJ","OBJ","first",-1,1
+"1332","GB","GB-W1B-002","have to","written","sl","OBJ","OBJ","second",-1,-1
+"1336","GB","GB-S2B-019","have to","spoken","bnew","OBJ","OBJ","third",-1,1
+"1340","GB","GB-S1B-071","have to","spoken","btran","X","SUB","first",0.5,1
+"1341","GB","GB-S1B-034","(have) got to","spoken","bdis","SUB","SUB","second",1,1
+"1343","GB","GB-S2B-044","have to","spoken","nbtal","SUB","OBJ","third",0,1
+"1345","GB","GB-S2A-056","have to","spoken","dem","OBJ","OBJ","first",-1,1
+"1346","GB","GB-W2C-011","(have) got to","written","rep","OBJ","OBJ","first",-1,-1
+"1348","GB","GB-S2B-006","(have) got to","spoken","bnew","X","OBJ","third",-0.5,1
+"1352","GB","GB-W2A-014","have to","written","ASoc","OBJ","OBJ","third",-1,-1
+"1353","GB","GB-S2A-061","have to","spoken","leg","OBJ","OBJ","third",-1,1
+"1354","GB","GB-S2A-061","have to","spoken","leg","OBJ","OBJ","third",-1,1
+"1355","GB","GB-S2A-061","have to","spoken","leg","OBJ","OBJ","third",-1,1
+"1356","GB","GB-S2A-061","have to","spoken","leg","OBJ","OBJ","third",-1,1
+"1357","GB","GB-S2A-061","have to","spoken","leg","OBJ","OBJ","third",-1,1
+"1358","GB","GB-S2A-061","have to","spoken","leg","OBJ","OBJ","third",-1,1
+"1362","GB","GB-S1B-077","need to","spoken","btran","OBJ","OBJ","first",-1,1
+"1364","GB","GB-S1B-079","have to","spoken","btran","OBJ","OBJ","second",-1,1
+"1368","GB","GB-S2B-026","have to","spoken","btal","OBJ","OBJ","third",-1,1
+"1372","GB","GB-S1B-026","have to","spoken","bdis","OBJ","OBJ","second",-1,1
+"1373","GB","GB-S2B-048","have to","spoken","nbtal","X","OBJ","third",-0.5,1
+"1374","GB","GB-S2A-031","have to","spoken","unsp","SUB","SUB","first",1,1
+"1375","GB","GB-S2A-031","have to","spoken","unsp","SUB","SUB","first",1,1
+"1377","GB","GB-S2A-023","have to","spoken","unsp","SUB","SUB","first",1,1
+"1381","GB","GB-W2B-017","need to","written","PSoc","SUB","OBJ","third",0,-1
+"1386","GB","GB-S2A-055","have to","spoken","dem","OBJ","OBJ","third",-1,1
+"1387","GB","GB-S2A-068","have to","spoken","leg","X","OBJ","second",-0.5,1
+"1388","GB","GB-S2B-028","have to","spoken","btal","OBJ","OBJ","first",-1,1
+"1390","GB","GB-S1B-030","have to","spoken","bdis","SUB","SUB","second",1,1
+"1391","GB","GB-S2B-031","need to","spoken","btal","SUB","SUB","first",1,1
+"1392","GB","GB-S2B-020","need to","spoken","bnew","SUB","SUB","second",1,1
+"1398","GB","GB-S2B-026","have to","spoken","btal","OBJ","SUB","third",0,1
+"1399","GB","GB-S1B-045","have to","spoken","bint","X","SUB","second",0.5,1
+"1400","GB","GB-W2F-015","have to","written","nov","X","SUB","first",0.5,-1
+"1402","GB","GB-S2A-055","have to","spoken","dem","OBJ","OBJ","third",-1,1
+"1404","GB","GB-S1B-033","need to","spoken","bdis","SUB","SUB","first",1,1
+"1407","GB","GB-S2A-061","have to","spoken","leg","OBJ","OBJ","third",-1,1
+"1409","GB","GB-S2A-061","have to","spoken","leg","OBJ","OBJ","third",-1,1
+"1411","GB","GB-W1B-005","have to","written","sl","SUB","SUB","first",1,-1
+"1413","GB","GB-S1B-045","have to","spoken","bint","SUB","SUB","first",1,1
+"1414","GB","GB-S2B-047","need to","spoken","nbtal","SUB","SUB","first",1,1
+"1416","GB","GB-S1B-024","have to","spoken","bdis","SUB","SUB","first",1,1
+"1417","GB","GB-S2B-050","have to","spoken","nbtal","SUB","SUB","first",1,1
+"1419","GB","GB-W1B-009","have to","written","sl","SUB","SUB","first",1,-1
+"1420","GB","GB-S2A-021","have to","spoken","unsp","SUB","SUB","first",1,1
+"1421","GB","GB-S1B-022","have to","spoken","bdis","SUB","SUB","third",1,1
+"1422","GB","GB-S1B-041","(have) got to","spoken","bint","OBJ","SUB","second",0,1
+"1425","GB","GB-S1B-030","have to","spoken","bdis","SUB","SUB","first",1,1
+"1426","GB","GB-S1B-030","have to","spoken","bdis","SUB","SUB","first",1,1
+"1427","GB","GB-S1B-031","have to","spoken","bdis","SUB","SUB","first",1,1
+"1433","GB","GB-W1B-005","have to","written","sl","X","SUB","first",0.5,-1
+"1434","GB","GB-W1B-009","have to","written","sl","SUB","SUB","first",1,-1
+"1436","GB","GB-S1B-045","have to","spoken","bint","SUB","SUB","first",1,1
+"1437","GB","GB-S2A-023","need to","spoken","unsp","SUB","SUB","first",1,1
+"1438","GB","GB-S1B-072","need to","spoken","btran","SUB","SUB","second",1,1
+"1443","USA","USA-W2D-011","need to","written","SkHo","OBJ","OBJ","second",-1,-1
+"1444","USA","USA-W2F-001","have to","written","nov","OBJ","SUB","third",0,-1
+"1445","USA","USA-W2F-008","have to","written","nov","SUB","SUB","first",1,-1
+"1446","USA","USA-W1B-004","have to","written","sl","SUB","SUB","first",1,-1
+"1447","USA","USA-W1B-009","have to","written","sl","SUB","SUB","first",1,-1
+"1450","USA","USA-W2F-008","have to","written","nov","OBJ","SUB","third",0,-1
+"1451","USA","USA-W2B-004","have to","written","PHum","X","SUB","third",0.5,-1
+"1452","USA","USA-W2A-012","need to","written","ASoc","SUB","OBJ","third",0,-1
+"1453","USA","USA-W2C-014","have to","written","rep","SUB","SUB","third",1,-1
+"1455","USA","USA-W2C-004","need to","written","rep","SUB","SUB","third",1,-1
+"1456","USA","USA-W1B-009","need to","written","sl","SUB","SUB","first",1,-1
+"1457","USA","USA-W1B-009","need to","written","sl","SUB","SUB","first",1,-1
+"1460","USA","USA-W2B-035","have to","written","PTec","OBJ","OBJ","third",-1,-1
+"1461","USA","USA-W2E-008","need to","written","ed","SUB","SUB","third",1,-1
+"1462","USA","USA-W2E-009","need to","written","ed","OBJ","SUB","third",0,-1
+"1463","USA","USA-W2B-017","have to","written","PSoc","OBJ","OBJ","third",-1,-1
+"1464","USA","USA-W2B-016","need to","written","PSoc","SUB","SUB","third",1,-1
+"1465","USA","USA-W2B-019","need to","written","PSoc","OBJ","SUB","third",0,-1
+"1466","USA","USA-W2B-020","have to","written","PSoc","OBJ","SUB","third",0,-1
+"1469","USA","USA-W1B-001","have to","written","sl","OBJ","SUB","third",0,-1
+"1470","USA","USA-W2C-011","have to","written","rep","SUB","SUB","first",1,-1
+"1471","USA","USA-W2C-002","need to","written","rep","SUB","SUB","third",1,-1
+"1472","USA","USA-W2C-002","need to","written","rep","SUB","SUB","third",1,-1
+"1474","USA","USA-W2C-016","have to","written","rep","OBJ","SUB","second",0,-1
+"1476","USA","USA-W2F-008","have to","written","nov","OBJ","SUB","second",0,-1
+"1477","USA","USA-W2E-002","need to","written","ed","OBJ","SUB","third",0,-1
+"1478","USA","USA-W2D-019","have to","written","SkHo","OBJ","OBJ","third",-1,-1
+"1479","USA","USA-W2C-018","need to","written","rep","OBJ","SUB","third",0,-1
+"1482","USA","USA-W2A-014","need to","written","ASoc","OBJ","SUB","third",0,-1
+"1485","USA","USA-W1B-007","have to","written","sl","OBJ","OBJ","first",-1,-1
+"1486","USA","USA-W2B-035","need to","written","PTec","OBJ","SUB","third",0,-1
+"1487","USA","USA-W2C-016","need to","written","rep","SUB","OBJ","third",0,-1
+"1488","USA","USA-W2C-016","have to","written","rep","OBJ","SUB","third",0,-1
+"1491","USA","USA-W2D-018","need to","written","SkHo","OBJ","SUB","second",0,-1
+"1492","USA","USA-W2D-019","have to","written","SkHo","OBJ","OBJ","second",-1,-1
+"1494","USA","USA-W2C-001","need to","written","rep","SUB","SUB","third",1,-1
+"1495","USA","USA-W1B-011","have to","written","sl","SUB","OBJ","third",0,-1
+"1497","USA","USA-W1B-015","need to","written","sl","OBJ","OBJ","first",-1,-1
+"1498","USA","USA-W2D-019","have to","written","SkHo","OBJ","SUB","second",0,-1
+"1499","USA","USA-W2C-011","have to","written","rep","SUB","SUB","first",1,-1
+"1500","USA","USA-W2C-014","need to","written","rep","SUB","SUB","first",1,-1
+"1501","USA","USA-W2B-024","have to","written","PNat","OBJ","OBJ","third",-1,-1
+"1502","USA","USA-W2D-019","have to","written","SkHo","OBJ","SUB","second",0,-1
+"1505","USA","USA-W2E-002","need to","written","ed","SUB","SUB","third",1,-1
+"1506","USA","USA-W2B-013","have to","written","PSoc","OBJ","OBJ","third",-1,-1
+"1508","USA","USA-W2D-018","have to","written","SkHo","OBJ","OBJ","second",-1,-1
+"1509","USA","USA-W2D-016","have to","written","SkHo","OBJ","OBJ","second",-1,-1
+"1510","USA","USA-W2B-013","need to","written","PSoc","SUB","SUB","third",1,-1
+"1511","USA","USA-W1B-001","have to","written","sl","X","SUB","third",0.5,-1
+"1513","USA","USA-W2C-009","have to","written","rep","SUB","SUB","first",1,-1
+"1514","USA","USA-W2D-018","need to","written","SkHo","OBJ","OBJ","second",-1,-1
+"1515","USA","USA-W2D-013","need to","written","SkHo","OBJ","SUB","second",0,-1
+"1519","USA","USA-W2E-008","have to","written","ed","SUB","SUB","third",1,-1
+"1521","USA","USA-W2C-002","have to","written","rep","OBJ","SUB","third",0,-1
+"1522","USA","USA-W2B-036","need to","written","PTec","X","SUB","second",0.5,-1
+"1523","USA","USA-W2D-012","need to","written","SkHo","OBJ","OBJ","second",-1,-1
+"1524","USA","USA-W2F-009","have to","written","nov","SUB","SUB","second",1,-1
+"1527","USA","USA-W2C-017","have to","written","rep","SUB","SUB","first",1,-1
+"1529","USA","USA-W2B-012","have to","written","PSoc","OBJ","SUB","third",0,-1
+"1530","USA","USA-W2C-009","need to","written","rep","OBJ","SUB","first",0,-1
+"1531","USA","USA-W2C-016","have to","written","rep","X","X","third",0,-1
+"1532","USA","USA-W2D-019","have to","written","SkHo","OBJ","OBJ","second",-1,-1
+"1533","USA","USA-W2B-011","have to","written","PSoc","OBJ","OBJ","second",-1,-1
+"1534","USA","USA-W2F-017","have to","written","nov","OBJ","OBJ","first",-1,-1
+"1535","USA","USA-W2B-004","have to","written","PHum","SUB","SUB","third",1,-1
+"1536","USA","USA-W1B-012","(have) got to","written","sl","OBJ","SUB","first",0,-1
+"1537","USA","USA-W1B-004","have to","written","sl","OBJ","SUB","first",0,-1
+"1538","USA","USA-W1B-007","have to","written","sl","OBJ","SUB","first",0,-1
+"1539","USA","USA-W1B-005","have to","written","sl","SUB","SUB","first",1,-1
+"1540","USA","USA-W2A-015","have to","written","ASoc","OBJ","OBJ","first",-1,-1
+"1542","USA","USA-W1B-007","have to","written","sl","SUB","SUB","first",1,-1
+"1543","USA","USA-W1B-007","have to","written","sl","OBJ","OBJ","first",-1,-1
+"1544","USA","USA-W1B-012","have to","written","sl","OBJ","OBJ","first",-1,-1
+"1545","USA","USA-W1B-013","(have) got to","written","sl","SUB","SUB","first",1,-1
+"1547","USA","USA-W1B-006","have to","written","sl","SUB","SUB","first",1,-1
+"1548","USA","USA-W2C-003","have to","written","rep","OBJ","OBJ","third",-1,-1
+"1549","USA","USA-W1B-015","need to","written","sl","OBJ","OBJ","first",-1,-1
+"1550","USA","USA-W2B-017","have to","written","PSoc","SUB","SUB","first",1,-1
+"1551","USA","USA-W2B-035","need to","written","PTec","OBJ","OBJ","third",-1,-1
+"1553","USA","USA-W2D-016","have to","written","SkHo","OBJ","OBJ","second",-1,-1
+"1554","USA","USA-W2F-008","have to","written","nov","SUB","SUB","first",1,-1
+"1555","USA","USA-W2F-008","have to","written","nov","X","SUB","first",0.5,-1
+"1558","USA","USA-W2B-013","need to","written","PSoc","SUB","SUB","first",1,-1
+"1559","USA","USA-W2D-012","need to","written","SkHo","OBJ","SUB","third",0,-1
+"1560","USA","USA-W2D-019","have to","written","SkHo","OBJ","SUB","third",0,-1
+"1561","USA","USA-W2D-012","need to","written","SkHo","OBJ","SUB","second",0,-1
+"1562","USA","USA-W2C-014","need to","written","rep","SUB","SUB","first",1,-1
+"1563","USA","USA-W1B-008","have to","written","sl","OBJ","OBJ","first",-1,-1
+"1564","USA","USA-W1B-007","need to","written","sl","X","SUB","first",0.5,-1
+"1565","USA","USA-W2B-016","need to","written","PSoc","SUB","SUB","third",1,-1
+"1566","USA","USA-W2B-018","(have) got to","written","PSoc","OBJ","SUB","third",0,-1
+"1567","USA","USA-W2D-011","have to","written","SkHo","SUB","SUB","second",1,-1
+"1568","USA","USA-W1B-008","have to","written","sl","OBJ","SUB","second",0,-1
+"1569","USA","USA-W1B-007","have to","written","sl","OBJ","OBJ","first",-1,-1
+"1570","USA","USA-W2C-004","have to","written","rep","OBJ","OBJ","third",-1,-1
+"1571","USA","USA-W1B-012","have to","written","sl","OBJ","SUB","first",0,-1
+"1572","USA","USA-W2C-004","have to","written","rep","SUB","SUB","third",1,-1
+"1573","USA","USA-W2E-004","need to","written","ed","SUB","SUB","first",1,-1
+"1574","USA","USA-W2B-035","have to","written","PTec","X","SUB","second",0.5,-1
+"1575","USA","USA-W2C-008","have to","written","rep","SUB","SUB","third",1,-1
+"1576","USA","USA-W2B-002","have to","written","PHum","OBJ","OBJ","third",-1,-1
+"1577","USA","USA-W2B-019","need to","written","PSoc","SUB","SUB","third",1,-1
+"1578","USA","USA-W2D-016","have to","written","SkHo","OBJ","OBJ","third",-1,-1
+"1579","USA","USA-W2B-004","need to","written","PHum","OBJ","OBJ","third",-1,-1
+"1580","USA","USA-W2B-027","need to","written","PNat","OBJ","OBJ","third",-1,-1
+"1581","USA","USA-W2D-019","have to","written","SkHo","OBJ","OBJ","second",-1,-1
+"1582","USA","USA-W2D-019","have to","written","SkHo","OBJ","OBJ","second",-1,-1
+"1583","USA","USA-W2D-019","have to","written","SkHo","OBJ","OBJ","third",-1,-1
+"1584","USA","USA-W2D-019","have to","written","SkHo","OBJ","OBJ","second",-1,-1
+"1586","USA","USA-W2C-009","have to","written","rep","X","SUB","second",0.5,-1
+"1587","USA","USA-W2E-007","need to","written","ed","SUB","SUB","third",1,-1
+"1588","USA","USA-W2C-018","have to","written","rep","OBJ","OBJ","third",-1,-1
+"1590","USA","USA-W2B-019","need to","written","PSoc","SUB","SUB","third",1,-1
+"1591","USA","USA-W2D-020","need to","written","SkHo","OBJ","OBJ","second",-1,-1
+"1592","USA","USA-W2B-019","have to","written","PSoc","OBJ","SUB","second",0,-1
+"1593","USA","USA-W1B-013","have to","written","sl","SUB","SUB","first",1,-1
+"1594","USA","USA-W2D-014","(have) got to","written","SkHo","OBJ","OBJ","second",-1,-1
+"1595","USA","USA-W1B-008","need to","written","sl","SUB","SUB","first",1,-1
+"1596","USA","USA-W2E-008","have to","written","ed","OBJ","OBJ","third",-1,-1
+"1597","USA","USA-W2E-002","have to","written","ed","OBJ","OBJ","third",-1,-1
+"1599","USA","USA-W2F-008","have to","written","nov","OBJ","OBJ","second",-1,-1
+"1600","USA","USA-W2F-020","have to","written","nov","SUB","SUB","first",1,-1
+"1601","USA","USA-W2D-011","need to","written","SkHo","OBJ","SUB","second",0,-1
+"1603","USA","USA-W2C-014","have to","written","rep","OBJ","OBJ","second",-1,-1
+"1604","USA","USA-W1B-012","have to","written","sl","OBJ","OBJ","third",-1,-1
+"1605","USA","USA-W1B-007","have to","written","sl","OBJ","OBJ","second",-1,-1
+"1608","USA","USA-W1B-002","need to","written","sl","SUB","SUB","first",1,-1
+"1609","USA","USA-W2F-004","have to","written","nov","X","X","third",0,-1
+"1610","USA","USA-W2F-002","(have) got to","written","nov","SUB","SUB","first",1,-1
+"1613","USA","USA-W2D-015","have to","written","SkHo","OBJ","OBJ","second",-1,-1
+"1614","USA","USA-W2D-015","have to","written","SkHo","OBJ","OBJ","second",-1,-1
+"1615","USA","USA-W2D-013","need to","written","SkHo","OBJ","SUB","third",0,-1
+"1616","USA","USA-W2F-016","have to","written","nov","SUB","OBJ","first",0,-1
+"1617","USA","USA-W1B-007","have to","written","sl","SUB","SUB","first",1,-1
+"1618","USA","USA-W2F-020","have to","written","nov","SUB","SUB","first",1,-1
+"1619","USA","USA-W2C-001","need to","written","rep","SUB","SUB","third",1,-1
+"1621","USA","USA-W2D-019","need to","written","SkHo","OBJ","OBJ","third",-1,-1
+"1622","USA","USA-W2F-010","have to","written","nov","SUB","SUB","second",1,-1
+"1623","USA","USA-W1B-013","have to","written","sl","SUB","SUB","first",1,-1
+"1624","USA","USA-W1B-010","have to","written","sl","OBJ","OBJ","first",-1,-1
+"1625","USA","USA-W2D-018","need to","written","SkHo","OBJ","OBJ","third",-1,-1
+"1626","USA","USA-W1B-005","have to","written","sl","OBJ","OBJ","second",-1,-1
+"1627","USA","USA-W2C-009","have to","written","rep","OBJ","OBJ","second",-1,-1
+"1629","USA","USA-W1B-003","have to","written","sl","OBJ","OBJ","first",-1,-1
+"1630","SCO","SCO-rep-071","have to","written","rep","OBJ","OBJ","third",-1,-1
+"1631","SCO","SCO-ed-018","need to","written","ed","OBJ","OBJ","first",-1,-1
+"1632","SCO","SCO-rep-053","need to","written","rep","OBJ","OBJ","third",-1,-1
+"1633","SCO","SCO-rep-011","need to","written","rep","SUB","SUB","third",1,-1
+"1634","SCO","SCO-rep-028","have to","written","rep","SUB","OBJ","third",0,-1
+"1635","SCO","SCO-rep-051","(have) got to","written","rep","SUB","SUB","first",1,-1
+"1636","SCO","SCO-PSoc-001","need to","written","PSoc","SUB","OBJ","third",0,-1
+"1637","SCO","SCO-ASoc-001","need to","written","ASoc","SUB","SUB","first",1,-1
+"1638","SCO","SCO-rep-009","have to","written","rep","OBJ","OBJ","second",-1,-1
+"1639","SCO","SCO-rep-076","have to","written","rep","OBJ","OBJ","third",-1,-1
+"1640","SCO","SCO-PNat-023","need to","written","PNat","SUB","SUB","third",1,-1
+"1641","SCO","SCO-nov-005","have to","written","nov","SUB","OBJ","third",0,-1
+"1642","SCO","SCO-rep-071","need to","written","rep","SUB","SUB","third",1,-1
+"1643","SCO","SCO-PTec-020","need to","written","PTec","OBJ","OBJ","third",-1,-1
+"1644","SCO","SCO-PTec-006","need to","written","PTec","X","SUB","second",0.5,-1
+"1645","SCO","SCO-rep-039","need to","written","rep","OBJ","OBJ","third",-1,-1
+"1646","SCO","SCO-PHum-011","need to","written","PHum","SUB","OBJ","third",0,-1
+"1647","SCO","SCO-rep-012","need to","written","rep","OBJ","OBJ","third",-1,-1
+"1648","SCO","SCO-rep-071","need to","written","rep","SUB","SUB","third",1,-1
+"1649","SCO","SCO-ed-032","have to","written","ed","OBJ","OBJ","third",-1,-1
+"1650","SCO","SCO-PNat-019","need to","written","PNat","SUB","SUB","first",1,-1
+"1651","SCO","SCO-rep-056","have to","written","rep","SUB","SUB","third",1,-1
+"1652","SCO","SCO-ed-019","need to","written","ed","X","SUB","first",0.5,-1
+"1653","SCO","SCO-rep-039","need to","written","rep","SUB","SUB","first",1,-1
+"1654","SCO","SCO-rep-069","need to","written","rep","SUB","SUB","first",1,-1
+"1655","SCO","SCO-SkHo-004","have to","written","SkHo","X","OBJ","first",-0.5,-1
+"1656","SCO","SCO-ed-018","need to","written","ed","SUB","OBJ","first",0,-1
+"1657","SCO","SCO-ed-008","need to","written","ed","SUB","SUB","first",1,-1
+"1658","SCO","SCO-PSoc-008","need to","written","PSoc","SUB","SUB","first",1,-1
+"1659","SCO","SCO-PTec-013","need to","written","PTec","OBJ","SUB","second",0,-1
+"1660","SCO","SCO-ed-019","have to","written","ed","SUB","SUB","first",1,-1
+"1661","SCO","SCO-rep-030","have to","written","rep","SUB","SUB","second",1,-1
+"1662","SCO","SCO-rep-076","need to","written","rep","SUB","SUB","first",1,-1
+"1663","SCO","SCO-PTec-015","have to","written","PTec","OBJ","OBJ","third",-1,-1
+"1664","SCO","SCO-PTec-015","have to","written","PTec","OBJ","OBJ","third",-1,-1
+"1665","SCO","SCO-PNat-022","have to","written","PNat","OBJ","OBJ","third",-1,-1
+"1666","SCO","SCO-rep-075","need to","written","rep","X","SUB","first",0.5,-1
+"1667","SCO","SCO-rep-038","need to","written","rep","SUB","SUB","third",1,-1
+"1668","SCO","SCO-rep-048","need to","written","rep","SUB","SUB","third",1,-1
+"1669","SCO","SCO-rep-054","have to","written","rep","X","SUB","first",0.5,-1
+"1670","SCO","SCO-ed-032","have to","written","ed","OBJ","OBJ","third",-1,-1
+"1671","SCO","SCO-rep-013","need to","written","rep","OBJ","OBJ","third",-1,-1
+"1672","SCO","SCO-rep-009","have to","written","rep","SUB","SUB","first",1,-1
+"1673","SCO","SCO-rep-009","have to","written","rep","SUB","SUB","first",1,-1
+"1674","SCO","SCO-rep-051","have to","written","rep","X","OBJ","first",-0.5,-1
+"1675","SCO","SCO-ed-014","need to","written","ed","OBJ","SUB","third",0,-1
+"1676","SCO","SCO-rep-003","have to","written","rep","OBJ","OBJ","third",-1,-1
+"1677","SCO","SCO-rep-055","have to","written","rep","OBJ","OBJ","third",-1,-1
+"1678","SCO","SCO-PTec-021","need to","written","PTec","SUB","SUB","first",1,-1
+"1679","SCO","SCO-PSoc-002","need to","written","PSoc","OBJ","OBJ","third",-1,-1
+"1680","SCO","SCO-rep-037","need to","written","rep","SUB","SUB","first",1,-1
+"1681","SCO","SCO-ed-024","have to","written","ed","OBJ","OBJ","third",-1,-1
+"1682","SCO","SCO-rep-013","need to","written","rep","OBJ","SUB","third",0,-1
+"1683","SCO","SCO-rep-009","have to","written","rep","OBJ","SUB","second",0,-1
+"1684","SCO","SCO-rep-071","have to","written","rep","OBJ","OBJ","third",-1,-1
+"1685","SCO","SCO-PNat-022","have to","written","PNat","OBJ","OBJ","third",-1,-1
+"1686","SCO","SCO-rep-055","have to","written","rep","SUB","SUB","third",1,-1
+"1687","SCO","SCO-rep-048","need to","written","rep","SUB","SUB","first",1,-1
+"1688","SCO","SCO-PNat-015","need to","written","PNat","SUB","SUB","first",1,-1
+"1689","SCO","SCO-rep-008","have to","written","rep","SUB","SUB","first",1,-1
+"1690","SCO","SCO-rep-043","need to","written","rep","SUB","SUB","first",1,-1
+"1691","SCO","SCO-rep-057","(have) got to","written","rep","SUB","SUB","second",1,-1
+"1692","SCO","SCO-rep-007","have to","written","rep","OBJ","SUB","third",0,-1
+"1693","SCO","SCO-SkHo-018","must","written","SkHo","SUB","SUB","first",1,-1
+"1694","SCO","SCO-sl-045","must","written","sl","SUB","SUB","first",1,-1
+"1695","SCO","SCO-sl-047","must","written","sl","OBJ","SUB","first",0,-1
+"1696","SCO","SCO-SkHo-022","must","written","SkHo","SUB","SUB","first",1,-1
+"1697","SCO","SCO-SkHo-022","need to","written","SkHo","OBJ","SUB","second",0,-1
+"1698","SCO","SCO-sl-043","have to","written","sl","SUB","SUB","third",1,-1
+"1699","SCO","SCO-sl-054","have to","written","sl","OBJ","OBJ","third",-1,-1
+"1700","SCO","SCO-sl-025","have to","written","sl","OBJ","SUB","first",0,-1
+"1701","SCO","SCO-SkHo-010","need to","written","SkHo","SUB","SUB","first",1,-1
+"1702","SCO","SCO-sl-034","have to","written","sl","SUB","SUB","first",1,-1
+"1703","SCO","SCO-SkHo-014","need to","written","SkHo","OBJ","OBJ","first",-1,-1
+"1704","SCO","SCO-SkHo-022","have to","written","SkHo","OBJ","SUB","first",0,-1
+"1705","SCO","SCO-SkHo-018","have to","written","SkHo","OBJ","SUB","first",0,-1
+"1706","SCO","SCO-SkHo-025","have to","written","SkHo","OBJ","OBJ","first",-1,-1
+"1707","GB","GB-W2A-014","need to","written","ASoc","SUB","SUB","first",1,-1
+"1710","GB","GB-W2E-005","need to","written","ed","SUB","SUB","third",1,-1
+"1711","SCO","SCO-btal-021","must","spoken","btal","SUB","OBJ","first",0,1
+"1712","SCO","SCO-btal-017","must","spoken","btal","SUB","SUB","third",1,1
+"1713","SCO","SCO-bnew-005","must","spoken","bnew","SUB","SUB","third",1,1
+"1714","SCO","SCO-leg-016","must","spoken","leg","OBJ","OBJ","third",-1,1
+"1715","SCO","SCO-btal-026","must","spoken","btal","OBJ","OBJ","third",-1,1
+"1716","SCO","SCO-leg-007","must","spoken","leg","OBJ","OBJ","third",-1,1
+"1717","SCO","SCO-btal-026","must","spoken","btal","SUB","OBJ","third",0,1
+"1718","SCO","SCO-btal-018","must","spoken","btal","SUB","OBJ","third",0,1
+"1719","SCO","SCO-btal-028","must","spoken","btal","SUB","SUB","first",1,1
+"1720","SCO","SCO-btal-024","must","spoken","btal","OBJ","OBJ","third",-1,1
+"1721","SCO","SCO-btal-014","must","spoken","btal","SUB","OBJ","third",0,1
+"1722","SCO","SCO-btal-036","must","spoken","btal","SUB","SUB","first",1,1
+"1723","SCO","SCO-btal-014","must","spoken","btal","OBJ","SUB","first",0,1
+"1724","SCO","SCO-unsp-008","must","spoken","unsp","SUB","SUB","third",1,1
+"1725","SCO","SCO-btal-021","must","spoken","btal","SUB","SUB","first",1,1
+"1726","SCO","SCO-btal-022","must","spoken","btal","SUB","SUB","first",1,1
+"1727","SCO","SCO-btal-041","must","spoken","btal","SUB","SUB","third",1,1
+"1728","SCO","SCO-leg-010","must","spoken","leg","OBJ","OBJ","first",-1,1
+"1729","SCO","SCO-leg-010","must","spoken","leg","OBJ","OBJ","third",-1,1
+"1730","SCO","SCO-btal-017","must","spoken","btal","SUB","SUB","third",1,1
+"1731","SCO","SCO-bint-012_T1","must","spoken","bint","SUB","SUB","first",1,1
+"1732","SCO","SCO-bnew-036","must","spoken","bnew","OBJ","OBJ","third",-1,1
+"1733","SCO","SCO-leg-010","must","spoken","leg","OBJ","OBJ","first",-1,1
+"1734","SCO","SCO-btal-026","must","spoken","btal","SUB","SUB","first",1,1
+"1735","SCO","SCO-bint-014_T2","have to","spoken","bint","X","OBJ","second",-0.5,1
+"1736","SCO","SCO-btal-029","have to","spoken","btal","SUB","SUB","first",1,1
+"1737","SCO","SCO-btal-026","need to","spoken","btal","SUB","SUB","first",1,1
+"1738","SCO","SCO-btal-027","have to","spoken","btal","SUB","OBJ","third",0,1
+"1739","SCO","SCO-unsp-008","have to","spoken","unsp","SUB","SUB","third",1,1
+"1740","SCO","SCO-unsp-016","need to","spoken","unsp","OBJ","OBJ","third",-1,1
+"1741","SCO","SCO-unsp-016","have to","spoken","unsp","OBJ","OBJ","third",-1,1
+"1742","SCO","SCO-unsp-026","have to","spoken","unsp","SUB","SUB","first",1,1
+"1743","SCO","SCO-nbtal-011","need to","spoken","nbtal","SUB","SUB","first",1,1
+"1744","SCO","SCO-nbtal-011","have to","spoken","nbtal","SUB","SUB","third",1,1
+"1745","SCO","SCO-bint-014_T2","have to","spoken","bint","OBJ","OBJ","second",-1,1
+"1746","SCO","SCO-unsp-016","have to","spoken","unsp","OBJ","OBJ","third",-1,1
+"1747","SCO","SCO-bint-014_T2","need to","spoken","bint","SUB","SUB","second",1,1
+"1748","SCO","SCO-unsp-026","have to","spoken","unsp","OBJ","OBJ","third",-1,1
+"1749","SCO","SCO-unsp-026","have to","spoken","unsp","OBJ","OBJ","third",-1,1
+"1750","SCO","SCO-unsp-026","have to","spoken","unsp","OBJ","OBJ","third",-1,1
+"1751","SCO","SCO-unsp-026","have to","spoken","unsp","OBJ","OBJ","third",-1,1
+"1752","SCO","SCO-btal-043","have to","spoken","btal","OBJ","OBJ","third",-1,1
+"1753","SCO","SCO-btal-027","need to","spoken","btal","SUB","OBJ","third",0,1
+"1754","SCO","SCO-bint-014_T2","need to","spoken","bint","SUB","SUB","third",1,1
+"1755","SCO","SCO-unsp-016","need to","spoken","unsp","SUB","SUB","third",1,1
+"1756","SCO","SCO-bint-014_T2","(have) got to","spoken","bint","X","OBJ","third",-0.5,1
+"1757","SCO","SCO-unsp-016","need to","spoken","unsp","SUB","OBJ","third",0,1
+"1758","SCO","SCO-btal-027","need to","spoken","btal","OBJ","OBJ","third",-1,1
+"1759","SCO","SCO-bint-014_T2","(have) got to","spoken","bint","OBJ","OBJ","third",-1,1
+"1760","SCO","SCO-btal-029","have to","spoken","btal","SUB","OBJ","third",0,1
+"1761","SCO","SCO-nbtal-011","need to","spoken","nbtal","SUB","SUB","first",1,1
+"1762","SCO","SCO-unsp-029","need to","spoken","unsp","OBJ","OBJ","third",-1,1
+"1763","SCO","SCO-unsp-016","need to","spoken","unsp","OBJ","OBJ","third",-1,1
+"1764","SCO","SCO-nbtal-011","have to","spoken","nbtal","SUB","SUB","first",1,1
+"1765","SCO","SCO-unsp-016","have to","spoken","unsp","SUB","SUB","third",1,1
+"1766","SCO","SCO-bnew-011","need to","spoken","bnew","SUB","SUB","third",1,1
+"1767","SCO","SCO-btal-027","need to","spoken","btal","SUB","SUB","third",1,1
+"1768","SCO","SCO-btal-029","need to","spoken","btal","OBJ","OBJ","third",-1,1
+"1769","SCO","SCO-unsp-016","need to","spoken","unsp","SUB","SUB","third",1,1
+"1770","SCO","SCO-bint-013_T1","need to","spoken","bint","SUB","SUB","first",1,1
+"1771","SCO","SCO-btal-005","need to","spoken","btal","SUB","SUB","first",1,1
+"1772","SCO","SCO-nbtal-011","need to","spoken","nbtal","SUB","SUB","first",1,1
+"1773","SCO","SCO-btal-024","have to","spoken","btal","OBJ","OBJ","third",-1,1
+"1774","SCO","SCO-bint-010_T1","have to","spoken","bint","OBJ","OBJ","third",-1,1
+"1775","SCO","SCO-btal-026","have to","spoken","btal","SUB","SUB","first",1,1
+"1776","SCO","SCO-btal-005","need to","spoken","btal","SUB","SUB","first",1,1
+"1777","SCO","SCO-dem-001","have to","spoken","dem","OBJ","OBJ","first",-1,1
+"1778","SCO","SCO-bint-014_T2","(have) got to","spoken","bint","OBJ","OBJ","second",-1,1
+"1779","SCO","SCO-nbtal-011","need to","spoken","nbtal","SUB","SUB","first",1,1
+"1780","SCO","SCO-btal-036","have to","spoken","btal","SUB","SUB","first",1,1
+"1781","SCO","SCO-btal-035","have to","spoken","btal","OBJ","OBJ","third",-1,1
+"1782","SCO","SCO-nbtal-011","have to","spoken","nbtal","SUB","SUB","third",1,1
+"1783","SCO","SCO-btal-017","need to","spoken","btal","SUB","SUB","first",1,1
+"1784","SCO","SCO-btal-005","need to","spoken","btal","SUB","SUB","first",1,1
+"1785","SCO","SCO-bint-006_T2","have to","spoken","bint","X","SUB","first",0.5,1
+"1786","SCO","SCO-nbtal-011","need to","spoken","nbtal","SUB","SUB","first",1,1
+"1787","SCO","SCO-dem-009","need to","spoken","dem","SUB","OBJ","first",0,1
+"1788","SCO","SCO-dem-007","have to","spoken","dem","X","OBJ","first",-0.5,1
+"1789","SCO","SCO-btran-003","have to","spoken","btran","OBJ","OBJ","first",-1,1
+"1790","SCO","SCO-dem-005","have to","spoken","dem","OBJ","OBJ","second",-1,1
+"1791","SCO","SCO-bint-012_T1","need to","spoken","bint","SUB","OBJ","first",0,1
+"1792","SCO","SCO-btal-005","need to","spoken","btal","SUB","SUB","first",1,1
+"1793","SCO","SCO-unsp-023","need to","spoken","unsp","OBJ","OBJ","first",-1,1
+"1794","SCO","SCO-unsp-029","have to","spoken","unsp","SUB","OBJ","first",0,1
+"1795","SCO","SCO-btal-021","need to","spoken","btal","SUB","OBJ","first",0,1
+"1796","SCO","SCO-btal-029","need to","spoken","btal","OBJ","OBJ","second",-1,1
+"1797","SCO","SCO-btal-005","need to","spoken","btal","SUB","SUB","first",1,1
+"1798","SCO","SCO-unsp-007","have to","spoken","unsp","OBJ","OBJ","third",-1,1
+"1799","SCO","SCO-leg-006","have to","spoken","leg","SUB","SUB","second",1,1
+"1800","SCO","SCO-unsp-025","need to","spoken","unsp","SUB","OBJ","first",0,1
+"1801","SCO","SCO-btal-027","need to","spoken","btal","SUB","SUB","first",1,1
+"1802","SCO","SCO-bint-012_T1","need to","spoken","bint","SUB","SUB","first",1,1
+"1803","SCO","SCO-btal-021","have to","spoken","btal","SUB","SUB","first",1,1
+"1804","SCO","SCO-nbtal-013","need to","spoken","nbtal","SUB","SUB","third",1,1
+"1805","SCO","SCO-bdis-014_T1","have to","spoken","bdis","OBJ","OBJ","second",-1,1
+"1806","SCO","SCO-nbtal-013","need to","spoken","nbtal","SUB","SUB","first",1,1
+"1807","SCO","SCO-nbtal-013","need to","spoken","nbtal","SUB","SUB","first",1,1
+"1808","SCO","SCO-btal-021","need to","spoken","btal","SUB","OBJ","third",0,1
+"1809","SCO","SCO-unsp-008","have to","spoken","unsp","OBJ","OBJ","third",-1,1
+"1810","SCO","SCO-unsp-028","have to","spoken","unsp","OBJ","SUB","first",0,1
+"1811","SCO","SCO-btal-029","have to","spoken","btal","SUB","SUB","first",1,1
+"1812","SCO","SCO-unsp-002","have to","spoken","unsp","SUB","SUB","first",1,1
+"1813","SCO","SCO-btal-019","have to","spoken","btal","SUB","SUB","first",1,1
+"1814","SCO","SCO-leg-004","have to","spoken","leg","SUB","SUB","first",1,1
+"1815","SCO","SCO-unsp-016","have to","spoken","unsp","SUB","SUB","first",1,1
+"1816","SCO","SCO-btal-023","need to","spoken","btal","SUB","SUB","first",1,1
+"1817","SCO","SCO-unsp-006","have to","spoken","unsp","OBJ","OBJ","first",-1,1
+"1818","SCO","SCO-btal-032","need to","spoken","btal","SUB","SUB","first",1,1
+"1819","SCO","SCO-btal-028","need to","spoken","btal","X","SUB","third",0.5,1
+"1820","SCO","SCO-nbtal-011","need to","spoken","nbtal","SUB","SUB","third",1,1
+"1821","SCO","SCO-nbtal-011","need to","spoken","nbtal","SUB","SUB","first",1,1
+"1822","SCO","SCO-nbtal-013","need to","spoken","nbtal","X","SUB","third",0.5,1
+"1823","SCO","SCO-btal-032","need to","spoken","btal","SUB","SUB","first",1,1
+"1824","SCO","SCO-bint-014_T1","(have) got to","spoken","bint","SUB","SUB","first",1,1
+"1825","SCO","SCO-btal-026","need to","spoken","btal","SUB","SUB","first",1,1
+"1826","SCO","SCO-nbtal-005","have to","spoken","nbtal","X","SUB","second",0.5,1
+"1827","SCO","SCO-unsp-004","have to","spoken","unsp","X","SUB","second",0.5,1
+"1828","SCO","SCO-unsp-008","need to","spoken","unsp","SUB","SUB","first",1,1
+"1829","SCO","SCO-btal-005","need to","spoken","btal","SUB","SUB","first",1,1
+"1830","SCO","SCO-unsp-013","need to","spoken","unsp","OBJ","SUB","first",0,1
+"1831","SCO","SCO-btal-027","need to","spoken","btal","SUB","SUB","first",1,1
+"1832","SCO","SCO-dem-001","need to","spoken","dem","OBJ","OBJ","second",-1,1
+"1833","SCO","SCO-unsp-029","have to","spoken","unsp","OBJ","OBJ","third",-1,1
+"1834","SCO","SCO-bint-010_T1","have to","spoken","bint","OBJ","OBJ","second",-1,1
+"1835","SCO","SCO-btal-009","need to","spoken","btal","SUB","SUB","first",1,1
+"1836","SCO","SCO-btal-022","must","spoken","btal","SUB","SUB","third",1,1
